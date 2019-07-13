@@ -7,21 +7,15 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Home', folder: 'pages', file: 'index.html'}
+- {name: 'Github', link: 'https://github.com/irudik'}
+- {name: 'CV', link: 'https://rawcdn.githack.com/irudik/irudik.github.io/048f14d147f57dbd57ed8c3d6f6731417fa380b6/assets/pdf/rudik_cv.pdf'}
+- {name: 'Teaching', folder: 'pages', file: 'teaching.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
-- {icon: 'rss-square', link: 'feed.xml'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
+- {icon: 'twitter', link: 'https://twitter.com/ivanjrudik'}
+- {icon: 'envelope', link: 'mailto:irudik@cornell.edu'}
 
 # Customize site text
 pagination:
