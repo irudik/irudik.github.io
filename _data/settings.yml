@@ -8,9 +8,10 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Home', folder: 'pages', file: 'index.html'}
+- {name: 'Teaching', folder: 'pages', file: 'teaching.html'}
 - {name: 'Github', link: 'https://github.com/irudik'}
 - {name: 'CV', link: 'https://rawcdn.githack.com/irudik/irudik.github.io/048f14d147f57dbd57ed8c3d6f6731417fa380b6/assets/pdf/rudik_cv.pdf'}
-- {name: 'Teaching', folder: 'pages', file: 'teaching.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
