@@ -23,7 +23,7 @@ h1, h2 {
 
 h1 {
   font-family: $base-font-family;
-  font-color: #212121;
+  color: #212121;
   font-size: 2rem;
   margin-bottom: .5rem;
   
@@ -32,6 +32,7 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
+  color: $link-color;
   font-size: 1.125rem;
   line-height: 1.65;
   text-rendering: optimizeLegibility;
@@ -44,7 +45,7 @@ h4, h5, h6 {
 body {
   font-family: $body-font-family;
   font-size: 0.75rem;
-  font-color: $brand-color;
+  color: $brand-color;
 }
 body img {
     align: middle;
@@ -93,7 +94,7 @@ dd {
 */
 
 a {
-  color: #000000;
+  color: $link-color;
   text-decoration: none;
 }
 
