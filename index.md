@@ -61,7 +61,7 @@ Rudik, I. 2018. _**Economic Modelling**_ 72:202-215.
 [[open access version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2615918)]
 
 ### [Steering the climate system: Using inertia to lower the cost of policy](https://www.aeaweb.org/articles?id=10.1257/aer.20150986&&from=f)  
-Lemoine, D. and I. Rudik. 2017. _**American Economic Review**_ 107(10):2947–57.   
+Lemoine, D. and I. Rudik. 2017. **American Economic Review** 107(10):2947–57.   
 [[open access version](https://ivanrudik.com/s/lemoine_rudik_manuscript_combined_final_2017.pdf)] [[reproduction code](https://github.com/irudik/steering-the-climate-system)]
 
 ### [Managing climate change under uncertainty: Recursive integrated assessment at an inflection point](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)  
