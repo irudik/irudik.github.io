@@ -6,13 +6,13 @@ tags:
 ---
 <p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:250px;height:320px;">
 
- Assistant Professor
+ Assistant Professor <br />
  
- Dyson School of Applied Economics and Management
+ Dyson School of Applied Economics and Management <br />
  
- Cornell University
+ Cornell University <br />
  
- I work on environmental and energy economics
+ I work on environmental and energy economics <br />
 
 </p>
 
