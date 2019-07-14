@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Teaching', folder: 'pages', file: 'teaching.html'}
+- {name: 'Teaching', folder: 'pages', file: 'teaching.md'}
 - {name: 'CV', folder: 'assets/pdf', file: 'rudik_cv.pdf'}
 
 
