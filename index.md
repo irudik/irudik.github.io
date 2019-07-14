@@ -23,27 +23,26 @@ tags:
 # Work in progress
 
 ### A microfounded approach for estimating the aggregate economic effects of climate change
-Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
+#### Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
 ### Economic activity and biodiversity
-Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
+#### Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
 # Working papers
 
-### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
-Gabriel Lade and Ivan Rudik, *revise and resubmit at JAERE*
+### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  #### Gabriel Lade and Ivan Rudik, *revise and resubmit at JAERE*
 
 ### Excess emissions are common, harmful, and underregulated
-Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
+#### Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
 
 ### [Optimal climate policy when damages are unknown](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516632)
-Ivan Rudik, *2nd revise and resubmit at AEJ: Policy*
+#### Ivan Rudik, *2nd revise and resubmit at AEJ: Policy*
 
 ### The social cost of leaded gasoline: Evidence from regulatory exemptions
-Alex Hollingsworth and Ivan Rudik
+#### Alex Hollingsworth and Ivan Rudik
 
 ### Valuing science policy: Dynamic decisionmaking with generalized Bayesian learning
-Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
+#### Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
 
 # Publications
 
