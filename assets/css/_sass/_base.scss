@@ -14,7 +14,7 @@ dl, dd, ol, ul, figure {
 */
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   
   font-weight: bold;
   line-height: 1.65;
@@ -32,7 +32,9 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
 }
 h4, h5, h6 {
   font-size: 1rem;
