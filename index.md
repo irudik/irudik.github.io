@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Ivan Rudik
+title:
 excerpt: 
 tags: [Jekyll, theme, responsive, blog, template]
 ---
