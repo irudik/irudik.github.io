@@ -53,7 +53,7 @@ Hollingsworth, A. and I. Rudik. 2019. **Journal of the Association of Environmen
 
 ### [Air pollution and visitation at U.S. national parks](http://advances.sciencemag.org/content/4/7/eaat1613)  
 Keiser, D., G. Lade, and I. Rudik. 2018. **Science Advances** 4(7).  
-**Media:** Washington Post, New York Times, CNN, Associated Press, The Guardian, US News and World Report, USA Today, Axios, Scientific American, Public Radio (So Cal, Phoenix, Utah, NorCal/Oregon), and others.  
+**Media:** Washington Post, New York Times, CNN, Associated Press, The Guardian, USA Today, and others.  
 [[reproduction code](https://github.com/irudik/national-parks)]
 
 ### [Tradable credit markets for intensity standards](https://www.sciencedirect.com/science/article/pii/S0264999317315651)  
