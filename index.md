@@ -30,13 +30,13 @@ Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
 # Working papers
 
-### Costs of inefficient regulation: Evidence from the Bakken
+### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
 Gabriel Lade and Ivan Rudik, *revise and resubmit at JAERE*
 
 ### Excess emissions are common, harmful, and underregulated
 Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
 
-### Optimal climate policy when damages are unknown
+### [Optimal climate policy when damages are unknown](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516632)
 Ivan Rudik, *2nd revise and resubmit at AEJ: Policy*
 
 ### The social cost of leaded gasoline: Evidence from regulatory exemptions
