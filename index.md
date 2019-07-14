@@ -1,7 +1,7 @@
 ---
 layout: page 
-title: 
-excerpt: "The personal website of Grant R. McDermott."
+title: Ivan Rudik
+excerpt: 
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
