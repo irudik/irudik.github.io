@@ -15,9 +15,9 @@ tags:
 &nbsp; Cornell University <br /> <br />
  
 &nbsp; Teaching:  
-- [energy economics (undergrad)](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/4940_syllabus.pdf)  
-- [environmental economics (masters)](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/6510_syllabus.pdf) . 
-- [dynamics/computational methods (Ph.D.)](https://github.com/AEM7130/SPRING2019) <br /> <br />
+&nbsp; [Energy economics (undergrad)](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/4940_syllabus.pdf)  
+&nbsp; [Environmental economics (masters)](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/6510_syllabus.pdf)   
+&nbsp; [Computational methods (Ph.D.)](https://github.com/AEM7130/SPRING2019) <br /> <br />
 
 </p>
 <br />  
