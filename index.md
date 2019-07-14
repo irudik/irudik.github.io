@@ -8,7 +8,7 @@ tags:
 
 I'm an assistant professor in the Dyson School of Applied Economics and Management at Cornell University. </p>
 
-<p style="clear: both;">
+<p style="clear: both;"> </p>
   
 # Work in progress
 
@@ -20,4 +20,4 @@ Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
 # Working papers
 
-</p>
+
