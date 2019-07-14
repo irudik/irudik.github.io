@@ -4,20 +4,20 @@ title:
 excerpt: 
 tags: 
 ---
-<pre>
+
 <p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:250px;height:320px;padding:0px">
 
 
-  Assistant Professor <br /> <br />
+&nbsp; Assistant Professor <br /> <br />
  
-  Dyson School of Applied Economics and Management <br /> <br />
+&nbsp; Dyson School of Applied Economics and Management <br /> <br />
  
-  Cornell University <br /> <br />
+&nbsp; Cornell University <br /> <br />
  
-  I work on environmental and energy economics <br /> <br />
+&nbsp; I work on environmental and energy economics <br /> <br />
 
 </p>
-</pre>
+
 <p style="clear: both;"> </p>
   
 # Work in progress
