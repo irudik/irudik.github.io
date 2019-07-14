@@ -7,7 +7,6 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Home', folder: 'pages', file: 'index.html'}
 - {name: 'Teaching', folder: 'pages', file: 'teaching.html'}
 - {name: 'CV', link: 'cv.html'}
 
