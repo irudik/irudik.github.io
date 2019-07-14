@@ -48,5 +48,5 @@ Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
 # Publications
 
 # External impacts of local energy policy: The case of renewable portfolio standards 
-Hollingsworth, A. and I. Rudik. 2019. **Journal of the Association of Environmental and Resource Economists** 6(1):187-213.
+Hollingsworth, A. and I. Rudik. 2019. **Journal of the Association of Environmental and Resource Economists** 6(1):187-213.  
 [[open access version](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2697222)]
