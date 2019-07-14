@@ -50,3 +50,8 @@ Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
 ### External impacts of local energy policy: The case of renewable portfolio standards 
 Hollingsworth, A. and I. Rudik. 2019. **Journal of the Association of Environmental and Resource Economists** 6(1):187-213.  
 [[open access version](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2697222)] [[reproduction code](https://github.com/irudik/external-impacts-rps)]
+
+### Air pollution and visitation at U.S. national parks
+Keiser, D., G. Lade, and I. Rudik. 2018. **Science Advances** 4(7).  
+**Media:** Washington Post, New York Times, CNN, Associated Press, The Guardian, US News and World Report, USA Today, Axios, Scientific American, Public Radio (So Cal, Phoenix, Utah, NorCal/Oregon), and others.  
+[[reproduction code](https://github.com/irudik/national-parks)]
