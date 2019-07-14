@@ -11,4 +11,12 @@ I'm an assistant professor in the Dyson School of Applied Economics and Manageme
 
 ## Work in progress
 
+### A microfounded approach for estimating the aggregate economic effects of climate change
+Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
+
+### Economic activity and biodiversity
+Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
+
 ## Working papers
+
+
