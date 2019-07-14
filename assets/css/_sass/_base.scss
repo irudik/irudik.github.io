@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 /* Headings */
 h1 {
   font-family: $base-font-family;
-  color: #212121;
+  color: $header-color;
   font-size: 2rem;
   margin-bottom: .5rem;
   font-weight: bold;
