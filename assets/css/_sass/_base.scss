@@ -14,22 +14,20 @@ dl, dd, ol, ul, figure {
 */
 
 /* Headings */
-h1, h2 {
-  
-  font-weight: bold;
-  line-height: 1.65;
-  text-rendering: optimizeLegibility;
-}
-
 h1 {
   font-family: $base-font-family;
   color: #212121;
   font-size: 2rem;
   margin-bottom: .5rem;
-  
+  font-weight: bold;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
 }
 h2 {
   font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
 }
 h3 {
   color: $link-color;
