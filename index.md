@@ -14,7 +14,7 @@ tags:
  
 &nbsp; Cornell University <br /> <br />
  
-&nbsp; I work on environmental and energy economics <br /> <br />
+&nbsp; Research interests: environment, climate change, energy, air pollution <br /> <br />
 
 </p>
 <br />  
