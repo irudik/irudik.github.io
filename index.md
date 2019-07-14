@@ -4,8 +4,8 @@ title:
 excerpt: 
 tags: 
 ---
-<p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:250px;height:320px;padding:5px">
-
+<p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:250px;height:320px;padding:10px">
+<br />
 Assistant Professor <br /> <br />
  
 Dyson School of Applied Economics and Management <br /> <br />
