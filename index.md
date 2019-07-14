@@ -65,7 +65,7 @@ Lemoine, D. and I. Rudik. 2017. _**American Economic Review**_ 107(10):2947–57
 [[open access version](https://ivanrudik.com/s/lemoine_rudik_manuscript_combined_final_2017.pdf)] [[reproduction code](https://github.com/irudik/steering-the-climate-system)]
 
 ### [Managing climate change under uncertainty: Recursive integrated assessment at an inflection point](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)
-Lemoine, D. and I. Rudik. 2017. _**Annual Review of Resource Economics**_ 9:117–142. 
+Lemoine, D. and I. Rudik. 2017. _**Annual Review of Resource Economics**_ 9:117–142.  
 [[open access version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)] [[reproduction code](https://github.com/irudik/dynamic-stochastic-dice)]
 
 ### [Opportunities for advances in climate change economics](http://science.sciencemag.org/content/352/6283/292.abstract)
