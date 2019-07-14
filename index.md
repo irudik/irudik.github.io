@@ -48,16 +48,16 @@ Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
 # Publications
 
 ### [External impacts of local energy policy: The case of renewable portfolio standards](https://www.journals.uchicago.edu/doi/abs/10.1086/700419)  
-Hollingsworth, A. and I. Rudik. 2019. _**Journal of the Association of Environmental and Resource Economists**_ 6(1):187-213.  
+Hollingsworth, A. and I. Rudik. 2019. **Journal of the Association of Environmental and Resource Economists** 6(1):187-213.  
 [[open access version](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2697222)] [[reproduction code](https://github.com/irudik/external-impacts-rps)]
 
 ### [Air pollution and visitation at U.S. national parks](http://advances.sciencemag.org/content/4/7/eaat1613)  
-Keiser, D., G. Lade, and I. Rudik. 2018. _**Science Advances**_ 4(7).  
-_**Media:**_ Washington Post, New York Times, CNN, Associated Press, The Guardian, US News and World Report, USA Today, Axios, Scientific American, Public Radio (So Cal, Phoenix, Utah, NorCal/Oregon), and others.  
+Keiser, D., G. Lade, and I. Rudik. 2018. **Science Advances** 4(7).  
+**Media:** Washington Post, New York Times, CNN, Associated Press, The Guardian, US News and World Report, USA Today, Axios, Scientific American, Public Radio (So Cal, Phoenix, Utah, NorCal/Oregon), and others.  
 [[reproduction code](https://github.com/irudik/national-parks)]
 
 ### [Tradable credit markets for intensity standards](https://www.sciencedirect.com/science/article/pii/S0264999317315651)  
-Rudik, I. 2018. _**Economic Modelling**_ 72:202-215.  
+Rudik, I. 2018. **Economic Modelling** 72:202-215.  
 [[open access version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2615918)]
 
 ### [Steering the climate system: Using inertia to lower the cost of policy](https://www.aeaweb.org/articles?id=10.1257/aer.20150986&&from=f)  
@@ -65,9 +65,9 @@ Lemoine, D. and I. Rudik. 2017. **American Economic Review** 107(10):2947–57.
 [[open access version](https://ivanrudik.com/s/lemoine_rudik_manuscript_combined_final_2017.pdf)] [[reproduction code](https://github.com/irudik/steering-the-climate-system)]
 
 ### [Managing climate change under uncertainty: Recursive integrated assessment at an inflection point](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)  
-Lemoine, D. and I. Rudik. 2017. _**Annual Review of Resource Economics**_ 9:117–142.  
+Lemoine, D. and I. Rudik. 2017. **Annual Review of Resource Economics** 9:117–142.  
 [[open access version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)] [[reproduction code](https://github.com/irudik/dynamic-stochastic-dice)]
 
 ### [Opportunities for advances in climate change economics](http://science.sciencemag.org/content/352/6283/292.abstract)  
-Burke, M., M. Craxton, C. D. Kolstad, C. Onda, H. Allcott, E. Baker, L. Barrage, R. Carson, K. Gillingham, J. Graff-Zivin, M. Greenstone, S. Hallegatte, W.M. Hanemann, G. Heal, S. Hsiang, B. Jones, D. L. Kelly, R. Kopp, M. Kotchen, R. Mendelsohn, K.Meng, G. Metcalf, J. Moreno-Cruz, R. Pindyck, S. Rose, I. Rudik, J. Stock, and R. S. J. Tol. 2016. _**Science**_ 352 (6283):292–93.  
-_**Media:**_ Futurity, Iowa Public Radio (River to River)
+Burke, M., M. Craxton, C. D. Kolstad, C. Onda, H. Allcott, E. Baker, L. Barrage, R. Carson, K. Gillingham, J. Graff-Zivin, M. Greenstone, S. Hallegatte, W.M. Hanemann, G. Heal, S. Hsiang, B. Jones, D. L. Kelly, R. Kopp, M. Kotchen, R. Mendelsohn, K.Meng, G. Metcalf, J. Moreno-Cruz, R. Pindyck, S. Rose, I. Rudik, J. Stock, and R. S. J. Tol. 2016. **Science** 352 (6283):292–93.  
+**Media:** Futurity, Iowa Public Radio (River to River)
