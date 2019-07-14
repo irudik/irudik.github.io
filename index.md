@@ -4,7 +4,7 @@ title:
 excerpt: 
 tags: 
 ---
-<p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:250px;height:320px;"  hspace="40px">
+<p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:250px;height:320px;padding:24px"  hspace="40px">
 
 Assistant Professor <br /> <br />
  
