@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Teaching', folder: 'pages', file: 'teaching.html'}
-- {name: 'CV', link: 'cv.html'}
+- {name: 'CV', folder: 'assets/pdf', file: 'rudik_cv.pdf'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
