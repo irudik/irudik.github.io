@@ -4,8 +4,9 @@ title:
 excerpt: 
 tags: 
 ---
-<p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:250px;height:320px;padding:0px">
 <pre>
+<p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:250px;height:320px;padding:0px">
+
 
   Assistant Professor <br /> <br />
  
@@ -14,9 +15,9 @@ tags:
   Cornell University <br /> <br />
  
   I work on environmental and energy economics <br /> <br />
-</pre>
-</p>
 
+</p>
+</pre>
 <p style="clear: both;"> </p>
   
 # Work in progress
