@@ -42,7 +42,7 @@ Gabriel Lade and Ivan Rudik, *revise and resubmit at JAERE*
 Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
 
 ### [Optimal climate policy when damages are unknown](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516632) 
-Ivan Rudik, *2nd revise and resubmit at AEJ: Policy*
+Ivan Rudik, *Conditionally accepted at AEJ: Policy*
 
 ### The social cost of leaded gasoline: Evidence from regulatory exemptions  
 Alex Hollingsworth and Ivan Rudik
