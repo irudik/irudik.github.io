@@ -19,7 +19,7 @@ tags:
 &nbsp; [Environmental economics (masters)](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/6510_syllabus.pdf)   
 &nbsp; [Computational methods (Ph.D.)](https://github.com/AEM7130/SPRING2019) <br /> <br />
 
-&nbsp; [CV](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/rudik_cv.pdf)
+&nbsp; [CV](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/rudik_cv.pdf)
 
 </p>
 <br />  
@@ -36,13 +36,13 @@ Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 # Working papers
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
-Gabriel Lade and Ivan Rudik, *revise and resubmit at JAERE*
+Gabriel Lade and Ivan Rudik - *revise and resubmit at JAERE*
 
 ### Excess emissions are common, harmful, and underregulated  
 Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
 
 ### [Optimal climate policy when damages are unknown](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516632) 
-Ivan Rudik, *Conditionally accepted at AEJ: Policy*
+Ivan Rudik - *Conditionally accepted at AEJ: Policy*
 
 ### The social cost of leaded gasoline: Evidence from regulatory exemptions  
 Alex Hollingsworth and Ivan Rudik
