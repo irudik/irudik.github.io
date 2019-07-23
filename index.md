@@ -55,10 +55,12 @@ Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
 ### [External impacts of local energy policy: The case of renewable portfolio standards](https://www.journals.uchicago.edu/doi/abs/10.1086/700419)  
 Hollingsworth, A. and I. Rudik. 2019. **Journal of the Association of Environmental and Resource Economists**.
 
-[[ungated version](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2697222)] [[code](https://github.com/irudik/external-impacts-rps)]
+[[ungated version](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2697222)]
+[[code](https://github.com/irudik/external-impacts-rps)]
 
 ### [Air pollution and visitation at U.S. national parks](http://advances.sciencemag.org/content/4/7/eaat1613)  
-Keiser, D., G. Lade, and I. Rudik. 2018. **Science Advances**.  
+Keiser, D., G. Lade, and I. Rudik. 2018. **Science Advances**.
+
 **Media:** Washington Post, New York Times, CNN, Associated Press, The Guardian, USA Today, and others.   
 [[code](https://github.com/irudik/national-parks)]
 
@@ -70,12 +72,14 @@ Rudik, I. 2018. **Economic Modelling**.
 ### [Steering the climate system: Using inertia to lower the cost of policy](https://www.aeaweb.org/articles?id=10.1257/aer.20150986&&from=f)  
 Lemoine, D. and I. Rudik. 2017. **American Economic Review**. 
 
-[[ungated version](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/lemoine_rudik_aer_2017.pdf)] [[code](https://github.com/irudik/steering-the-climate-system)]
+[[ungated version](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/lemoine_rudik_aer_2017.pdf)] 
+[[code](https://github.com/irudik/steering-the-climate-system)]
 
 ### [Managing climate change under uncertainty: Recursive integrated assessment at an inflection point](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)  
 Lemoine, D. and I. Rudik. 2017. **Annual Review of Resource Economics**.
 
-[[ungated version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)] [[reproduction code](https://github.com/irudik/dynamic-stochastic-dice)]
+[[ungated version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)] 
+[[code](https://github.com/irudik/dynamic-stochastic-dice)]
 
 ### [Opportunities for advances in climate change economics](http://science.sciencemag.org/content/352/6283/292.abstract)  
 Burke, M., M. Craxton, C. D. Kolstad, C. Onda, H. Allcott, E. Baker, L. Barrage, R. Carson, K. Gillingham, J. Graff-Zivin, M. Greenstone, S. Hallegatte, W.M. Hanemann, G. Heal, S. Hsiang, B. Jones, D. L. Kelly, R. Kopp, M. Kotchen, R. Mendelsohn, K.Meng, G. Metcalf, J. Moreno-Cruz, R. Pindyck, S. Rose, I. Rudik, J. Stock, and R. S. J. Tol. 2016. **Science**.
