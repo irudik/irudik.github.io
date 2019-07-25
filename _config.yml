@@ -9,6 +9,10 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: https://ivanrudik.com
+
 sass:
   sass_dir: assets/css
   style: :nested
