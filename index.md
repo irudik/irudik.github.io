@@ -30,9 +30,6 @@ tags:
 ### A microfounded approach for estimating the aggregate economic effects of climate change
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
-### Economic activity and biodiversity
-Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
-
 # Working papers
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
