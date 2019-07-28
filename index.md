@@ -33,13 +33,17 @@ Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 # Working papers
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
-Gabriel Lade and Ivan Rudik - *revise and resubmit at JAERE*
+Gabriel Lade and Ivan Rudik
+
+Revise and resubmit at JAERE
 
 ### Excess emissions are common, harmful, and underregulated  
 Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
 
 ### [Optimal climate policy when damages are unknown](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516632) 
-Ivan Rudik - *conditionally accepted at AEJ: Policy*
+Ivan Rudik
+
+Conditionally accepted at AEJ: Policy
 
 ### The social cost of leaded gasoline: Evidence from regulatory exemptions  
 Alex Hollingsworth and Ivan Rudik
