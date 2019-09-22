@@ -45,7 +45,7 @@ Ivan Rudik
 
 Conditionally accepted at AEJ: Policy
 
-### The social cost of leaded gasoline: Evidence from regulatory exemptions  
+### [The social cost of leaded gasoline: Evidence from regulatory exemptions](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/hollingsworth_rudik.pdf)  
 Alex Hollingsworth and Ivan Rudik
 
 ### Valuing science policy: Dynamic decisionmaking with generalized Bayesian learning  
