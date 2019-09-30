@@ -49,7 +49,7 @@ Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
 # Publications
 
 ### [Optimal climate policy when damages are unknown](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516632) 
-I. Rudik. American Economic Journal: Economic Policy. Forthcoming.
+Rudik, I. American Economic Journal: Economic Policy. Forthcoming.
 
 ### [External impacts of local energy policy: The case of renewable portfolio standards](https://www.journals.uchicago.edu/doi/abs/10.1086/700419)  
 Hollingsworth, A. and I. Rudik. Journal of the Association of Environmental and Resource Economists. 2019.
