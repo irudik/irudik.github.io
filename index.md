@@ -51,7 +51,7 @@ Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
 ### [Optimal climate policy when damages are unknown](https://www.aeaweb.org/articles?id=10.1257/pol.20160541) 
 Rudik, I. American Economic Journal: Economic Policy. Forthcoming.
 
-[[ungated version](https://osf.io/preprints/socarxiv/nc43k)]
+[[ungated version](https://osf.io/preprints/socarxiv/nc43k)] [[code](https://github.com/irudik/optimal-climate-policy-aej)]
 
 ### [External impacts of local energy policy: The case of renewable portfolio standards](https://www.journals.uchicago.edu/doi/abs/10.1086/700419)  
 Hollingsworth, A. and I. Rudik. Journal of the Association of Environmental and Resource Economists. 2019.
