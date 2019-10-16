@@ -27,7 +27,7 @@ tags:
 
 # Work in progress
 
-### A microfounded approach for estimating the aggregate economic effects of climate change
+### Extreme temperature in dynamic spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
 # Working papers
