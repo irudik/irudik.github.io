@@ -27,6 +27,9 @@ tags:
 
 # Work in progress
 
+### Economic determinants of avian biodiversity
+Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
+
 ### Extreme temperature in dynamic spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
