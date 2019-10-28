@@ -38,8 +38,6 @@ Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
 Gabriel Lade and Ivan Rudik
 
-Revise and resubmit at JAERE
-
 ### Excess emissions are common, harmful, and underregulated  
 Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
 
