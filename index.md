@@ -27,15 +27,16 @@ tags:
 
 # Work in progress
 
-### A microfounded approach for estimating the aggregate economic effects of climate change
+### Economic determinants of avian biodiversity
+Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
+
+### Extreme temperature in dynamic spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
 # Working papers
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
 Gabriel Lade and Ivan Rudik
-
-Revise and resubmit at JAERE
 
 ### Excess emissions are common, harmful, and underregulated  
 Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
