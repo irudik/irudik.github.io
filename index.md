@@ -30,7 +30,7 @@ tags:
 ### Economic determinants of avian biodiversity
 Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
-### Extreme temperature in dynamic spatial general equilibrium
+### Aggregate effects of temperature in dynamic spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
 # Working papers
@@ -50,7 +50,7 @@ Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
 # Publications
 
 ### [Optimal climate policy when damages are unknown](https://www.aeaweb.org/articles?id=10.1257/pol.20160541) 
-Rudik, I. American Economic Journal: Economic Policy. Forthcoming.
+Rudik, I. American Economic Journal: Economic Policy. 2020.
 
 [[ungated version](https://osf.io/preprints/socarxiv/nc43k)] [[code](https://github.com/irudik/optimal-climate-policy-aej)]
 
