@@ -50,7 +50,7 @@ Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
 # Publications
 
 ### [Optimal climate policy when damages are unknown](https://www.aeaweb.org/articles?id=10.1257/pol.20160541) 
-Rudik, I. American Economic Journal: Economic Policy. Forthcoming.
+Rudik, I. American Economic Journal: Economic Policy. 2020.
 
 [[ungated version](https://osf.io/preprints/socarxiv/nc43k)] [[code](https://github.com/irudik/optimal-climate-policy-aej)]
 
