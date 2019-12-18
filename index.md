@@ -42,7 +42,7 @@ Gabriel Lade and Ivan Rudik
 Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
 
 ### [The social cost of leaded gasoline: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
-Alex Hollingsworth and Ivan Rudik
+Alex Hollingsworth and Ivan Rudik (revise and resubmit at AEJ: Policy)
 
 ### Valuing science policy: Dynamic decisionmaking with generalized Bayesian learning  
 Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
