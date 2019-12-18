@@ -42,7 +42,7 @@ Gabriel Lade and Ivan Rudik
 Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
 
 ### [The social cost of leaded gasoline: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
-Alex Hollingsworth and Ivan Rudik
+Alex Hollingsworth and Ivan Rudik (revise and resubmit at AEJ: Policy)
 
 ### Valuing science policy: Dynamic decisionmaking with generalized Bayesian learning  
 Ivan Rudik, Maxwell Rosenthal, and Derek Lemoine
@@ -76,6 +76,8 @@ Lemoine, D. and I. Rudik. American Economic Review. 2017.
 
 [[ungated version](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/lemoine_rudik_aer_2017.pdf)] 
 [[code](https://github.com/irudik/steering-the-climate-system)]
+[[mattauch et al. comment](https://www.aeaweb.org/articles?id=10.1257/aer.20190089)]
+[[reply](https://www.aeaweb.org/articles?id=10.1257/aer.20191814)]
 
 ### [Managing climate change under uncertainty: Recursive integrated assessment at an inflection point](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)  
 Lemoine, D. and I. Rudik. Annual Review of Resource Economics. 2017.
