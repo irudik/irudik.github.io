@@ -33,6 +33,9 @@ Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 ### Climate contagion
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
+### Improving forecasts  
+Renato Molina and Ivan Rudik
+
 # Working papers
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
