@@ -27,13 +27,13 @@ tags:
 
 # Work in progress
 
-### Pollution and biodiversity
+### Anthropogenic air pollution and North American bird populations
 Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
 ### Climate contagion
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
-### Improving forecasts  
+### The value of improving forecasts  
 Renato Molina and Ivan Rudik
 
 # Working papers
