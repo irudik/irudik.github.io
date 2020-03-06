@@ -17,7 +17,7 @@ tags:
 &nbsp; Teaching:  
 &nbsp; [Energy economics (undergrad)](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/4940_syllabus.pdf)  
 &nbsp; [Environmental economics (masters)](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/6510_syllabus.pdf)   
-&nbsp; [Computational methods (Ph.D.)](https://github.com/AEM7130/SPRING2019) <br /> <br />
+&nbsp; [Computational methods (Ph.D.)](https://github.com/AEM7130/) <br /> <br />
 
 &nbsp; [CV](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/rudik_cv.pdf)
 
@@ -27,11 +27,14 @@ tags:
 
 # Work in progress
 
-### Economic determinants of avian biodiversity
+### Anthropogenic air pollution and North American bird populations
 Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
-### Aggregate effects of temperature in dynamic spatial general equilibrium
+### Climate contagion
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
+
+### The value of improving forecasts  
+Renato Molina and Ivan Rudik
 
 # Working papers
 
@@ -43,6 +46,8 @@ Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
 
 ### [The social cost of leaded gasoline: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
 Alex Hollingsworth and Ivan Rudik (revise and resubmit at AEJ: Policy)
+
+Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)
 
 # Publications
 
