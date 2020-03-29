@@ -44,9 +44,6 @@ Renato Molina and Ivan Rudik
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
 Gabriel Lade and Ivan Rudik (revise and resubmit JEEM)
 
-### Excess emissions are common, harmful, and underregulated  
-Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
-
 ### [The social cost of leaded gasoline: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
 Alex Hollingsworth and Ivan Rudik (revise and resubmit at AEJ: Policy)
 
