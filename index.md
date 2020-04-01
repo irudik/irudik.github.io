@@ -27,16 +27,16 @@ tags:
 
 # Work in progress
 
-### Anthropogenic air pollution and North American bird populations
+### Anthropogenic air pollution and the American avifauna
 Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
 ### Climate contagion
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
-### Quasi-experimental evidence of the effect of lead emissions on test scores
+### Lead emissions and test scores: Quasi-experimental evidence
 Mike Huang, Alex Hollingsworth, Ivan Rudik
 
-### The value of improving forecasts  
+### The value of improving hurricane forecasts  
 Renato Molina and Ivan Rudik
 
 # Working papers
