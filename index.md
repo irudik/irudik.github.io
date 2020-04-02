@@ -28,7 +28,7 @@ tags:
 # Work in progress
 
 ### Anthropogenic air pollution and the American avifauna
-Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
+Yuanning Liang, Ivan Rudik, Eric Zou, Cathy Kling
 
 ### Climate contagion
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
