@@ -27,22 +27,22 @@ tags:
 
 # Work in progress
 
-### Anthropogenic air pollution and North American bird populations
-Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
+### Anthropogenic air pollution and the American avifauna
+Yuanning Liang, Ivan Rudik, Eric Zou, Cathy Kling
 
 ### Climate contagion
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
-### The value of improving forecasts  
+### Lead emissions and test scores: Quasi-experimental evidence
+Mike Huang, Alex Hollingsworth, Ivan Rudik
+
+### The value of improving hurricane forecasts  
 Renato Molina and Ivan Rudik
 
 # Working papers
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
-Gabriel Lade and Ivan Rudik (revise and resubmit JEEM)
-
-### Excess emissions are common, harmful, and underregulated  
-Alex Hollingsworth, David Konisky, Ivan Rudik, and Nikos Zirogiannis
+Gabriel Lade and Ivan Rudik (conditionally accepted at JEEM)
 
 ### [The social cost of leaded gasoline: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
 Alex Hollingsworth and Ivan Rudik (revise and resubmit at AEJ: Policy)
