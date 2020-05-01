@@ -27,14 +27,14 @@ tags:
 
 # Work in progress
 
-### Climate contagion
+### Climate contagion: Temperature in spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
 ### Conservation co-benefits
 Yuanning Liang, Ivan Rudik, Eric Zou, Cathy Kling
 
 ### Lead emissions and test scores
-Mike Huang, Alex Hollingsworth, Ivan Rudik
+Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
 ### The value of improving hurricane forecasts  
 Renato Molina and Ivan Rudik
