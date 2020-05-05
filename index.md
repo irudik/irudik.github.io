@@ -41,8 +41,7 @@ Renato Molina and Ivan Rudik
 
 # Working papers
 
-### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728)  
-Gabriel Lade and Ivan Rudik (conditionally accepted at JEEM)
+
 
 ### [The social cost of leaded gasoline: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
 Alex Hollingsworth and Ivan Rudik (revise and resubmit at AEJ: Policy)
@@ -50,6 +49,9 @@ Alex Hollingsworth and Ivan Rudik (revise and resubmit at AEJ: Policy)
 Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)
 
 # Publications
+
+### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728) 
+Lade, G. and I. Rudik. Journal of Environmental Economics and Management. Forthcoming.
 
 ### [Optimal climate policy when damages are unknown](https://www.aeaweb.org/articles?id=10.1257/pol.20160541) 
 Rudik, I. American Economic Journal: Economic Policy. 2020.
