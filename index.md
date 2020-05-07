@@ -27,7 +27,7 @@ tags:
 
 # Work in progress
 
-### Climate contagion: Temperature in spatial general equilibrium
+### Climate contagion: Temperature and growth in spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
 ### Lead emissions and test scores
