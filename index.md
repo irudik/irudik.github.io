@@ -30,9 +30,6 @@ tags:
 ### Climate contagion: Temperature in spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
-### Conservation co-benefits
-Yuanning Liang, Ivan Rudik, Eric Zou, Cathy Kling
-
 ### Lead emissions and test scores
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
@@ -41,7 +38,8 @@ Renato Molina and Ivan Rudik
 
 # Working papers
 
-
+### Conservation co-benefits from pollution regulation
+Yuanning Liang, Ivan Rudik, Eric Zou, Cathy Kling
 
 ### [The social cost of leaded gasoline: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
 Alex Hollingsworth and Ivan Rudik (revise and resubmit at AEJ: Policy)
