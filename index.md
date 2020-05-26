@@ -48,8 +48,8 @@ Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the
 
 # Publications
 
-### [Costs of inefficient regulation: Evidence from the Bakken](https://osf.io/preprints/socarxiv/3e9xk) 
-Lade, G. and I. Rudik. Journal of Environmental Economics and Management. Forthcoming.
+### [Costs of inefficient regulation: Evidence from the Bakken](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590) 
+Lade, G. and I. Rudik. Journal of Environmental Economics and Management. 2020.
 
 [[ungated version](https://osf.io/preprints/socarxiv/3e9xk)]
 
