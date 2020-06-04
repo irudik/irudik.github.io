@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1586605384 "rudik_cv.tex" "rudik_cv.pdf" "rudik_cv" 1586605385
+["pdflatex"] 1590243090 "rudik_cv.tex" "rudik_cv.pdf" "rudik_cv" 1590243090
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -38,7 +38,7 @@
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "res.cls" 1513044404 25066 8ec1e15ab4c53340bc92863668c7be49 ""
   "rudik_cv.aux" 1576689095 8 a94a2480d3289e625eea47cd1b285758 ""
-  "rudik_cv.tex" 1586605384 13489 0b8cc157bd58290b422285e1e89a6f97 ""
+  "rudik_cv.tex" 1590243090 13823 edecebab90be90d986f1f5d8513a53dc ""
   (generated)
   "rudik_cv.pdf"
   "rudik_cv.log"
