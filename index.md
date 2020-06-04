@@ -27,7 +27,7 @@ tags:
 
 # Work in progress
 
-### Climate contagion: Temperature in spatial general equilibrium
+### Climate contagion: Temperature and growth in spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
 ### Lead emissions and test scores
@@ -48,8 +48,10 @@ Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the
 
 # Publications
 
-### [Costs of inefficient regulation: Evidence from the Bakken](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3086728) 
-Lade, G. and I. Rudik. Journal of Environmental Economics and Management. Forthcoming.
+### [Costs of inefficient regulation: Evidence from the Bakken](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590) 
+Lade, G. and I. Rudik. Journal of Environmental Economics and Management. 2020.
+
+[[ungated version](https://osf.io/preprints/socarxiv/3e9xk)]
 
 ### [Optimal climate policy when damages are unknown](https://www.aeaweb.org/articles?id=10.1257/pol.20160541) 
 Rudik, I. American Economic Journal: Economic Policy. 2020.
