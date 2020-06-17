@@ -39,7 +39,7 @@ Renato Molina and Ivan Rudik
 # Working papers
 
 ### Conservation co-benefits from pollution regulation
-Yuanning Liang, Ivan Rudik, Eric Zou, Cathy Kling, Alison Johnston, Amanda Rodewald
+Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kling
 
 ### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
 Alex Hollingsworth and Ivan Rudik (revise and resubmit at AEJ: Policy)
