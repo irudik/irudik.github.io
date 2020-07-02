@@ -45,7 +45,7 @@ Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kl
 Alex Hollingsworth and Ivan Rudik (conditionally accepted at AEJ: Policy)
 
 Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)  
-[code](https://www.openicpsr.org/openicpsr/project/120128/)
+[[code](https://www.openicpsr.org/openicpsr/project/120128/)]
 
 # Publications
 
