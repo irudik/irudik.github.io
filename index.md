@@ -44,7 +44,8 @@ Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kl
 ### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
 Alex Hollingsworth and Ivan Rudik (conditionally accepted at AEJ: Policy)
 
-Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)
+Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)  
+[code](https://www.openicpsr.org/openicpsr/project/120128/)
 
 # Publications
 
