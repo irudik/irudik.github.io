@@ -30,6 +30,8 @@ tags:
 ### Climate contagion: Temperature and growth in spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
+### Economic development, abundance, and biodiversity
+
 ### Lead emissions and test scores
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
