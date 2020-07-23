@@ -30,6 +30,9 @@ tags:
 ### Climate contagion: Temperature and growth in spatial general equilibrium
 Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 
+### Economic development, abundance, and biodiversity  
+Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
+
 ### Lead emissions and test scores
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
@@ -38,13 +41,14 @@ Renato Molina and Ivan Rudik
 
 # Working papers
 
-### [Conservation co-benefits from pollution regulation](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/cobenefits.pdf)
+### [Conservation co-benefits from pollution regulation](https://osf.io/preprints/socarxiv/74ujt)
 Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kling
 
 ### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
 Alex Hollingsworth and Ivan Rudik (conditionally accepted at AEJ: Policy)
 
-Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)
+Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)  
+[[code](https://www.openicpsr.org/openicpsr/project/120128/)]
 
 # Publications
 
