@@ -15,9 +15,9 @@ tags:
 &nbsp; Cornell University <br /> <br />
  
 &nbsp; Teaching:  
-&nbsp; [Energy economics (undergrad)](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/4940_syllabus.pdf)  
-&nbsp; [Environmental economics (masters)](https://rawcdn.githack.com/irudik/irudik.github.io/fc03b88526d0b63e933504c6cb1126e6411cd7e0/assets/pdf/6510_syllabus.pdf)   
-&nbsp; [Computational methods (Ph.D.)](https://github.com/AEM7130/) <br /> <br />
+&nbsp; [Environmental economics (undergrad)](ivanrudik.com)  
+&nbsp; [Environmental economics (masters)](https://github.com/irudik/aem6510)   
+&nbsp; [Dynamic optimization (Ph.D.)](https://github.com/AEM7130/) <br /> <br />
 
 &nbsp; [CV](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/rudik_cv.pdf)
 
@@ -44,13 +44,13 @@ Renato Molina and Ivan Rudik
 ### [Conservation co-benefits from pollution regulation](https://osf.io/preprints/socarxiv/74ujt)
 Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kling
 
+# Publications
+
 ### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
-Alex Hollingsworth and Ivan Rudik (conditionally accepted at AEJ: Policy)
+Hollingsworth, A. and I. Rudik. American Economic Journal: Economic Policy. Forthcoming.
 
 Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)  
 [[code](https://www.openicpsr.org/openicpsr/project/120128/)]
-
-# Publications
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590) 
 Lade, G. and I. Rudik. Journal of Environmental Economics and Management. 2020.

@@ -22,8 +22,8 @@ kramdown:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Ivan Rudik"
-description:	       "Millenial theme"
-author:              "Paul Le"
+description:	       ""
+author:              ""
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
