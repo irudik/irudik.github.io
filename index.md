@@ -42,15 +42,15 @@ Renato Molina and Ivan Rudik
 # Working papers
 
 ### [Conservation co-benefits from pollution regulation](https://osf.io/preprints/socarxiv/74ujt)
-Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kling
+Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kling  
 
 # Publications
 
-### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://osf.io/preprints/socarxiv/rdy6g/)  
+### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://www.aeaweb.org/articles?id=10.1257/pol.20190654)  
 Hollingsworth, A. and I. Rudik. American Economic Journal: Economic Policy. Forthcoming.
 
 Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)  
-[[code](https://www.openicpsr.org/openicpsr/project/120128/)]
+[[ungated version](https://osf.io/preprints/socarxiv/rdy6g/)] [[code](https://www.openicpsr.org/openicpsr/project/120128/)]
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590) 
 Lade, G. and I. Rudik. Journal of Environmental Economics and Management. 2020.
