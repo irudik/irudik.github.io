@@ -41,7 +41,7 @@ Renato Molina and Ivan Rudik
 
 # Working papers
 
-### [Conservation co-benefits from pollution regulation: Evidence from birds](https://osf.io/preprints/socarxiv/74ujt)
+### [Conservation co-benefits from pollution regulation: Evidence from birds](https://osf.io/preprints/socarxiv/74ujt) (revise and resubmit)
 Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kling  
 
 # Publications
