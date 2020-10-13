@@ -8,7 +8,7 @@ tags:
 <p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:200px;height:256px;padding:0px">
 
 
-&nbsp; Assistant Professor <br /> <br />
+&nbsp; Ruth and William Morgan Assistant Professor of Applied Economics and Management <br /> <br />
  
 &nbsp; Dyson School of Applied Economics and Management <br /> <br />
  
