@@ -33,7 +33,7 @@ Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 ### Economic development, abundance, and biodiversity  
 Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
-### Lead emissions and test scores
+### Quantifying how lead exposure affects academic performance: Intensity, age, and nutrition matter
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
 ### The value of improving hurricane forecasts  
