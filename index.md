@@ -33,9 +33,6 @@ Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
 ### Economic development, abundance, and biodiversity  
 Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
-### Quantifying how lead exposure affects academic performance: Intensity, age, and nutrition matter
-Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
-
 ### The value of improving hurricane forecasts  
 Renato Molina and Ivan Rudik
 
@@ -43,6 +40,9 @@ Renato Molina and Ivan Rudik
 
 ### [Conservation co-benefits from pollution regulation: Evidence from birds](https://osf.io/preprints/socarxiv/74ujt) (revise and resubmit)
 Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kling  
+
+### How lead exposure affects academic performance: Intensity, age, and nutrition matter
+Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
 # Publications
 
