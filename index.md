@@ -38,13 +38,13 @@ Renato Molina and Ivan Rudik
 
 # Working papers
 
-### [Conservation co-benefits from pollution regulation: Evidence from birds](https://osf.io/preprints/socarxiv/74ujt) (revise and resubmit)
-Yuanning Liang, Ivan Rudik, Eric Zou, Alison Johnston, Amanda Rodewald, Cathy Kling  
-
 ### How lead exposure affects academic performance: Intensity, age, and nutrition matter
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
 # Publications
+
+### [Conservation co-benefits from pollution regulation: Evidence from birds](https://osf.io/preprints/socarxiv/74ujt)  
+Liang, Y., I. Rudik, E. Zou, A. Johnston, A. Rodewald, C. Kling. Proceedings of the National Academy of Sciences. Forthcoming.
 
 ### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://www.aeaweb.org/articles?id=10.1257/pol.20190654)  
 Hollingsworth, A. and I. Rudik. American Economic Journal: Economic Policy. Forthcoming.
