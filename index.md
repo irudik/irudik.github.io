@@ -38,7 +38,7 @@ Renato Molina and Ivan Rudik
 
 # Working papers
 
-### How lead exposure affects academic performance: Intensity, age, and nutrition matter
+### Lead exposure reduces academic performance: Intensity, duration, and nutrition matter
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
 # Publications
