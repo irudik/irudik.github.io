@@ -28,7 +28,7 @@ tags:
 # Work in progress
 
 ### Climate contagion: Temperature and growth in spatial general equilibrium
-Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik
+Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik, Weiliang Tan
 
 ### Economic development, abundance, and biodiversity  
 Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
