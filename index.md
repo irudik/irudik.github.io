@@ -33,8 +33,11 @@ Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik, Weiliang Tan
 ### Economic development, abundance, and biodiversity  
 Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
 
+### The spatial impact of environmental regulation  
+Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
+
 ### The value of improving hurricane forecasts  
-Renato Molina and Ivan Rudik
+Renato Molina, Ivan Rudik
 
 # Working papers
 
