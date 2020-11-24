@@ -55,7 +55,7 @@ Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the
 ### [Conservation co-benefits from pollution regulation: Evidence from birds](https://www.pnas.org/content/early/2020/11/23/2013568117)  
 Liang, Y., I. Rudik, E. Zou, A. Johnston, A. Rodewald, C. Kling. Proceedings of the National Academy of Sciences. 2020.
 
-[ungated version](https://osf.io/preprints/socarxiv/74ujt) [code](https://www.openicpsr.org/openicpsr/project/125422/version/V2/view)
+[[ungated version](https://osf.io/preprints/socarxiv/74ujt)] [[code](https://www.openicpsr.org/openicpsr/project/125422/version/V2/view)]
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590) 
 Lade, G. and I. Rudik. Journal of Environmental Economics and Management. 2020.
