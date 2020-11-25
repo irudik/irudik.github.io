@@ -52,7 +52,7 @@ Hollingsworth, A. and I. Rudik. American Economic Journal: Economic Policy. Fort
 Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)  
 [[ungated version](https://osf.io/preprints/socarxiv/rdy6g/)] [[code](https://www.openicpsr.org/openicpsr/project/120128/)]
 
-### [Conservation co-benefits from pollution regulation: Evidence from birds](https://www.pnas.org/content/early/2020/11/23/2013568117)  
+### [Conservation co-benefits from pollution regulation: Evidence from birds](https://doi.org/10.1073/pnas.2013568117)  
 Liang, Y., I. Rudik, E. Zou, A. Johnston, A. Rodewald, C. Kling. Proceedings of the National Academy of Sciences. 2020.
 
 [[ungated version](https://osf.io/preprints/socarxiv/74ujt)] [[code](https://www.openicpsr.org/openicpsr/project/125422/version/V2/view)]
