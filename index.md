@@ -44,10 +44,12 @@ Renato Molina, Ivan Rudik
 ### Lead exposure reduces academic performance: Intensity, duration, and nutrition matter
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
+[[ungated version](https://osf.io/preprints/socarxiv/rfzn5)]
+
 # Publications
 
 ### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://www.aeaweb.org/articles?id=10.1257/pol.20190654)  
-Hollingsworth, A. and I. Rudik. American Economic Journal: Economic Policy. Forthcoming.
+Hollingsworth, A. and I. Rudik. American Economic Journal: Economic Policy. 2021.
 
 Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)  
 [[ungated version](https://osf.io/preprints/socarxiv/rdy6g/)] [[code](https://www.openicpsr.org/openicpsr/project/120128/)]
