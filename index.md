@@ -41,10 +41,9 @@ Renato Molina, Ivan Rudik
 
 # Working papers
 
-### Lead exposure reduces academic performance: Intensity, duration, and nutrition matter
+### [Lead exposure reduces academic performance: Intensity, duration, and nutrition matter](https://www.nber.org/papers/w28250)
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
-[[ungated version](https://osf.io/preprints/socarxiv/rfzn5)]
 
 # Publications
 
