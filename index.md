@@ -62,7 +62,7 @@ Media: [PNAS Podcast](https://traffic.libsyn.com/secure/pnas-science-sessions-po
 [[ungated version](https://osf.io/preprints/socarxiv/74ujt)] [[code](https://www.openicpsr.org/openicpsr/project/125422/version/V2/view)]
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590) 
-Lade, G. and I. Rudik. 
+Lade, G. and I. Rudik.  
 2020. Journal of Environmental Economics and Management. 
 
 [[ungated version](https://osf.io/preprints/socarxiv/3e9xk)]
