@@ -37,6 +37,7 @@ h3 {
 }
 h4, h5, h6 {
   font-size: 1rem;
+  text-rendering: optimizeLegibility;
 }
 
 /* Body */
@@ -46,6 +47,7 @@ body {
   font-weight: 600;
   color: $brand-color;
   line-height: 1.65;
+  text-rendering: optimizeLegibility;
 }
 body img {
     align: middle;
