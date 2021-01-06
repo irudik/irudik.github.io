@@ -58,7 +58,7 @@ Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the
 Liang, Y., I. Rudik, E. Zou, A. Johnston, A. Rodewald, C. Kling.  
 Proceedings of the National Academy of Sciences. 2020. 
 
-Media: [PNAS Podcast](https://traffic.libsyn.com/secure/pnas-science-sessions-podcast/amandaRodewaldIvanRudikCatherineKlingPodcast.mp3), [Forbes](https://www.forbes.com/sites/saratabin/2020/11/30/air-pollution-regulations-may-have-saved-over-a-billion-birds-according-to-a-new-study/?sh=511d33fc2327), [Smithsonian](https://www.smithsonianmag.com/smart-news/study-estimates-clean-air-act-has-saved-15-billion-birds-180976432/)  
+Media: [Audubon](https://www.audubon.org/news/how-landmark-environmental-law-may-have-quietly-saved-billion-birds), [PNAS Podcast](https://traffic.libsyn.com/secure/pnas-science-sessions-podcast/amandaRodewaldIvanRudikCatherineKlingPodcast.mp3), [Forbes](https://www.forbes.com/sites/saratabin/2020/11/30/air-pollution-regulations-may-have-saved-over-a-billion-birds-according-to-a-new-study/?sh=511d33fc2327), [Smithsonian](https://www.smithsonianmag.com/smart-news/study-estimates-clean-air-act-has-saved-15-billion-birds-180976432/)  
 [[ungated version](https://osf.io/preprints/socarxiv/74ujt)] [[code](https://www.openicpsr.org/openicpsr/project/125422/version/V2/view)]
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590) 
