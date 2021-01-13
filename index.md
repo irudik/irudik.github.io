@@ -84,7 +84,7 @@ Journal of the Association of Environmental and Resource Economists. 2019.
 Keiser, D., G. Lade, and I. Rudik.  
 Science Advances. 2018. 
 
-Media: Washington Post, New York Times, CNN, Associated Press, The Guardian, USA Today, and others.   
+Media: [Washington Post](https://www.washingtonpost.com/science/2019/05/28/how-your-summer-vacation-may-give-you-an-up-close-view-climate-crisis/), [New York Times](https://www.nytimes.com/2018/07/23/well/parks-ozone-air-pollution.html?alm_mvr=0), [CNN](https://www.cnn.com/2018/07/18/us/national-park-air-quality-wxc/index.html), [Associated Press](https://apnews.com/article/1d601528b4fe48dba03c69d066f44ef8), and others.   
 [[code](https://github.com/irudik/national-parks)]
 
 ### [Tradable credit markets for intensity standards](https://www.sciencedirect.com/science/article/pii/S0264999317315651)  
