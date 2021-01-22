@@ -15,7 +15,7 @@ tags:
 &nbsp; Cornell University <br /> <br />
  
 &nbsp; Teaching:  
-&nbsp; [Environmental economics (undergrad)](ivanrudik.com)  
+&nbsp; [Environmental economics (undergrad)](https://aem4510.ivanrudik.com/)  
 &nbsp; [Environmental economics (masters)](https://github.com/irudik/aem6510)   
 &nbsp; [Dynamic optimization (Ph.D.)](https://github.com/AEM7130/) <br /> <br />
 
