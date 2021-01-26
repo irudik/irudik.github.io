@@ -37,15 +37,16 @@ h3 {
 }
 h4, h5, h6 {
   font-size: 1rem;
+  text-rendering: optimizeLegibility;
 }
 
 /* Body */
 body {
-  font-family: $body-font-family;
-  font-size: 0.82rem;
-  font-weight: 400;
+  font-family: $header-font-family;
+  font-size: .88rem;
   color: $brand-color;
   line-height: 1.65;
+  text-rendering: optimizeLegibility;
 }
 body img {
     align: middle;
