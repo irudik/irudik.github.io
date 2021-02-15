@@ -44,6 +44,8 @@ Renato Molina, Ivan Rudik
 ### [Lead exposure reduces academic performance: Intensity, duration, and nutrition matter](https://www.nber.org/papers/w28250)
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
+Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/)
+
 
 # Publications
 
