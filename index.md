@@ -27,8 +27,8 @@ tags:
 
 # Work in progress
 
-### Climate contagion: Temperature and growth in spatial general equilibrium
-Gary Lyn, Ariel Ortiz-Bobea, Ivan Rudik, Weiliang Tan
+### Heterogeneity and market adaptation to global warming in dynamic spatial equilibrium  
+Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea,
 
 ### Economic development, abundance, and biodiversity  
 Cathy Kling, Yuanning Liang, Ivan Rudik, Eric Zou
