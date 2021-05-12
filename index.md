@@ -27,13 +27,13 @@ tags:
 
 # Work in progress
 
-### Heterogeneity and market adaptation to global warming in dynamic spatial equilibrium  
+### Heterogeneity and market adaptation to climate change in dynamic spatial equilibrium  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
 
 ### Economic development and biodiversity  
 Yuanning Liang, Ivan Rudik, Eric Zou
 
-### The spatial impact of environmental regulation  
+### The geography of the Clean Air Act  
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 
 ### The value of improving hurricane forecasts  
