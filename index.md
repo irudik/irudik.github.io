@@ -101,7 +101,6 @@ American Economic Review. 2017.
 
 [[ungated version](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/lemoine_rudik_aer_2017.pdf)] 
 [[code](https://github.com/irudik/steering-the-climate-system)]
-[[mattauch et al. comment](https://www.aeaweb.org/articles?id=10.1257/aer.20190089)]
 [[reply](https://www.aeaweb.org/articles?id=10.1257/aer.20191814)]
 
 ### [Managing climate change under uncertainty: Recursive integrated assessment at an inflection point](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)  
