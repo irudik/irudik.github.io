@@ -27,9 +27,6 @@ tags:
 
 # Work in progress
 
-### Heterogeneity and market adaptation to climate change in dynamic spatial equilibrium  
-Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
-
 ### Economic development and biodiversity  
 Yuanning Liang, Ivan Rudik, Eric Zou
 
@@ -40,6 +37,9 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 Renato Molina, Ivan Rudik
 
 # Working papers
+
+### [Heterogeneity and market adaptation to climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)
+Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
 
 ### [Lead exposure reduces academic performance: Intensity, duration, and nutrition matter](https://www.nber.org/papers/w28250)
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
@@ -101,7 +101,6 @@ American Economic Review. 2017.
 
 [[ungated version](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/lemoine_rudik_aer_2017.pdf)] 
 [[code](https://github.com/irudik/steering-the-climate-system)]
-[[mattauch et al. comment](https://www.aeaweb.org/articles?id=10.1257/aer.20190089)]
 [[reply](https://www.aeaweb.org/articles?id=10.1257/aer.20191814)]
 
 ### [Managing climate change under uncertainty: Recursive integrated assessment at an inflection point](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862211)  
