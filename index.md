@@ -30,7 +30,7 @@ tags:
 ### Economic development and biodiversity  
 Yuanning Liang, Ivan Rudik, Eric Zou
 
-### The geography of the Clean Air Act  
+### The economic geography of environmental regulation 
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 
 ### The value of improving hurricane forecasts  
