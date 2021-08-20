@@ -27,7 +27,7 @@ tags:
 
 # Work in progress
 
-### Economic production, environmental regulation, and biodiversity
+### Economic production and biodiversity in the United States
 Yuanning Liang, Ivan Rudik, Eric Zou
 
 ### The economic geography of environmental regulation 
