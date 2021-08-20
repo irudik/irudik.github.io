@@ -27,7 +27,7 @@ tags:
 
 # Work in progress
 
-### Economic production, environmental regulation, and biodiversity
+### Economic production and biodiversity in the United States
 Yuanning Liang, Ivan Rudik, Eric Zou
 
 ### The economic geography of environmental regulation 
@@ -53,7 +53,7 @@ Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-stu
 Hollingsworth, A. and I. Rudik.  
 American Economic Journal: Economic Policy. 2021. 
 
-Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/)  
+Media: [Energy Institute Blog](https://energyathaas.wordpress.com/2020/03/02/the-crazy-history-of-lead-in-gasoline/), [Innovation Frontier Project](https://innovationfrontier.org/how-exposure-to-pollution-quietly-shapes-the-american-workforce-and-economy/)  
 [[ungated version](https://osf.io/preprints/socarxiv/rdy6g/)] [[code](https://www.openicpsr.org/openicpsr/project/120128/)]
 
 ### [Conservation co-benefits from pollution regulation: Evidence from birds](https://doi.org/10.1073/pnas.2013568117)  
