@@ -27,9 +27,6 @@ tags:
 
 # Work in progress
 
-### Economic production and biodiversity in the United States
-Yuanning Liang, Ivan Rudik, Eric Zou
-
 ### The economic geography of environmental regulation 
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 
@@ -37,6 +34,9 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 Renato Molina, Ivan Rudik
 
 # Working papers
+
+### [Economic production and biodiversity in the United States](https://osf.io/preprints/socarxiv/qy76a)
+Yuanning Liang, Ivan Rudik, Eric Zou
 
 ### [Heterogeneity and market adaptation to climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
