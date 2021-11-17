@@ -35,11 +35,11 @@ Renato Molina, Ivan Rudik
 
 # Working papers
 
+### [The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)
+Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
+
 ### [Economic production and biodiversity in the United States](https://osf.io/preprints/socarxiv/qy76a)
 Yuanning Liang, Ivan Rudik, Eric Zou
-
-### [Heterogeneity and market adaptation to climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)
-Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
 
 ### [Lead exposure reduces academic performance: Intensity, duration, and nutrition matter](https://www.nber.org/papers/w28250)
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
