@@ -27,8 +27,8 @@ tags:
 
 # Work in progress
 
-### The economic geography of environmental regulation 
-Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
+### Spatial and sectoral targeting of climate policy  
+Derek Lemoine, Ivan Rudik, Weiliang Tan
 
 ### The value of improving hurricane forecasts  
 Renato Molina, Ivan Rudik
@@ -37,6 +37,9 @@ Renato Molina, Ivan Rudik
 
 ### [The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
+
+### The economic geography of environmental regulation: Welfare and distributional impacts of the Clean Air Act  
+Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 
 ### [Economic production and biodiversity in the United States](https://osf.io/preprints/socarxiv/qy76a)
 Yuanning Liang, Ivan Rudik, Eric Zou
