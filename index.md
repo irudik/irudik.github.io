@@ -31,7 +31,7 @@ tags:
 Derek Lemoine, Ivan Rudik, Weiliang Tan
 
 ### Structural change in the social cost of carbon  
-Fran Moore, James Rising, Simon Dietz, Moritz Drupp, Ivan Rudik, Gernot Wagner
+Frances Moore, James Rising, Simon Dietz, Moritz Drupp, Ivan Rudik, Gernot Wagner
 
 ### The value of improving hurricane forecasts  
 Renato Molina, Ivan Rudik
