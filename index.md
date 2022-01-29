@@ -30,6 +30,9 @@ tags:
 ### Spatial and sectoral targeting of climate policy  
 Derek Lemoine, Ivan Rudik, Weiliang Tan
 
+### Structural change in the social cost of carbon  
+Fran Moore, James Rising, Simon Dietz, Moritz Drupp, Ivan Rudik, Gernot Wagner
+
 ### The value of improving hurricane forecasts  
 Renato Molina, Ivan Rudik
 
