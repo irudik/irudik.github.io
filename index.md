@@ -47,7 +47,7 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 ### [Economic production and biodiversity in the United States](https://osf.io/preprints/socarxiv/qy76a)
 Yuanning Liang, Ivan Rudik, Eric Zou
 
-### [Lead exposure reduces academic performance: Intensity, duration, and nutrition matter](https://www.nber.org/papers/w28250)
+### [A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
 Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/)
