@@ -30,6 +30,9 @@ tags:
 ### Spatial and sectoral targeting of climate policy  
 Derek Lemoine, Ivan Rudik, Weiliang Tan
 
+### Structural change in the social cost of carbon  
+Frances Moore, James Rising, Simon Dietz, Moritz Drupp, Ivan Rudik, Gernot Wagner
+
 ### The value of improving hurricane forecasts  
 Renato Molina, Ivan Rudik
 
@@ -44,7 +47,7 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 ### [Economic production and biodiversity in the United States](https://osf.io/preprints/socarxiv/qy76a)
 Yuanning Liang, Ivan Rudik, Eric Zou
 
-### [Lead exposure reduces academic performance: Intensity, duration, and nutrition matter](https://www.nber.org/papers/w28250)
+### [A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 
 Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/)
@@ -64,7 +67,7 @@ Liang, Y., I. Rudik, E. Zou, A. Johnston, A. Rodewald, C. Kling.
 Proceedings of the National Academy of Sciences. 2020. 
 
 Media: [Audubon](https://www.audubon.org/news/how-landmark-environmental-law-may-have-quietly-saved-billion-birds), [PNAS Podcast](https://traffic.libsyn.com/secure/pnas-science-sessions-podcast/amandaRodewaldIvanRudikCatherineKlingPodcast.mp3), [Forbes](https://www.forbes.com/sites/saratabin/2020/11/30/air-pollution-regulations-may-have-saved-over-a-billion-birds-according-to-a-new-study/?sh=511d33fc2327), [Smithsonian](https://www.smithsonianmag.com/smart-news/study-estimates-clean-air-act-has-saved-15-billion-birds-180976432/)  
-[[ungated version](https://osf.io/preprints/socarxiv/74ujt)] [[code](https://www.openicpsr.org/openicpsr/project/125422/version/V2/view)]
+[[ungated version](https://osf.io/preprints/socarxiv/74ujt)] [[kids version](https://www.sciencejournalforkids.org/articles/how-does-reducing-air-pollution-help-birds/)] [[code](https://www.openicpsr.org/openicpsr/project/125422/version/V2/view)]
 
 ### [Costs of inefficient regulation: Evidence from the Bakken](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590) 
 Lade, G. and I. Rudik.  
