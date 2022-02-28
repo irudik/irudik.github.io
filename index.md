@@ -41,7 +41,7 @@ Renato Molina, Ivan Rudik
 ### [The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
 
-### The economic geography of environmental regulation: Welfare and distributional impacts of the Clean Air Act  
+### Economic geography and the efficiency of environmental regulation
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 
 ### [Economic production and biodiversity in the United States](https://osf.io/preprints/socarxiv/qy76a)
