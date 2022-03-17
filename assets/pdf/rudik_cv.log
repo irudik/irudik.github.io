@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.17)  12 MAR 2022 09:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.17)  16 MAR 2022 09:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -314,7 +314,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
@@ -325,21 +330,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
 
 ]
-Overfull \hbox (12.4456pt too wide) in paragraph at lines 108--109
+Overfull \hbox (12.4456pt too wide) in paragraph at lines 113--114
 [][][]\OT1/cmr/m/n/12 Economic Ge-og-ra-phy and the Ef-fi-ciency of En-vi-ron-men-tal Reg-u-la-tion[][] (with Alex Hollingsworth,
- []
-
-
-Overfull \hbox (3.5194pt too wide) in paragraph at lines 127--128
-\OT1/cmr/m/n/12 CIREQ-GW Macroe-cono-met-ric Work-shop (dis-cus-sant), Uni-ver-sity of Mas-sachusetts, Philade-
  []
 
 [2
 
 
+]
+Overfull \hbox (3.5194pt too wide) in paragraph at lines 132--133
+\OT1/cmr/m/n/12 CIREQ-GW Macroe-cono-met-ric Work-shop (dis-cus-sant), Uni-ver-sity of Mas-sachusetts, Philade-
+ []
 
+[3
 
-] [3
 
 
 
@@ -348,30 +352,28 @@ Overfull \hbox (3.5194pt too wide) in paragraph at lines 127--128
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 216.
+(Font)              <14.4> on input line 221.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 216.
+(Font)              <7> on input line 221.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 216.
+(hyperref)                removing `math shift' on input line 221.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 216.
+(hyperref)                removing `superscript' on input line 221.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 216.
+(hyperref)                removing `math shift' on input line 221.
 
 
-Overfull \hbox (12.78296pt too wide) in paragraph at lines 220--222
+Overfull \hbox (12.78296pt too wide) in paragraph at lines 225--227
  []\OT1/cmr/bx/n/12 Current:[] \OT1/cmr/m/it/12 Luc Es-prabens$[]$\OT1/cmr/m/n/12 ; \OT1/cmr/m/it/12 Mike Huang$[]$\OT1/cmr/m/n/12 ; \OT1/cmr/m/it/12 Weil-iang Tan$[]$\OT1/cmr/m/n/12 ; Mar-ley Bonacquist-Currin; Bingyan
  []
 
 [4
-
-
 
 
 
@@ -393,6 +395,9 @@ Overfull \hbox (12.78296pt too wide) in paragraph at lines 220--222
 
 
 
+
+
+
 ] ) 
 Here is how much of TeX's memory you used:
  8507 strings out of 478994
@@ -401,9 +406,9 @@ Here is how much of TeX's memory you used:
  25873 multiletter control sequences out of 15000+600000
  409043 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,74p,1086b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,8n,74p,1086b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.pdf (5 pages, 92532 bytes).
+Output written on /Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.pdf (5 pages, 92708 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
