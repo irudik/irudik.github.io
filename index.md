@@ -23,13 +23,6 @@ tags:
 
 # [CV](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/rudik_cv.pdf)
 
-
-# Teaching
- 
-### [Environmental economics (undergrad)](https://aem4510.ivanrudik.com/)  
-### [Environmental economics (masters)](https://github.com/irudik/aem6510)   
-### [Dynamic optimization (Ph.D.)](https://github.com/AEM7130/) <br /> <br />
-
 # Research
 
 ## Work in progress
@@ -128,3 +121,9 @@ Burke, M., M. Craxton, C. D. Kolstad, C. Onda, H. Allcott, E. Baker, L. Barrage,
 Science. 2016. 
 
 Media: Futurity, Iowa Public Radio (River to River)
+
+# Teaching
+ 
+### [Environmental economics (undergrad)](https://aem4510.ivanrudik.com/)  
+### [Environmental economics (masters)](https://github.com/irudik/aem6510)   
+### [Dynamic optimization (Ph.D.)](https://github.com/AEM7130/) <br /> <br />
