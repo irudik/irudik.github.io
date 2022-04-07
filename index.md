@@ -18,12 +18,9 @@ tags:
 <br />  
 <br />  
 <br />  
-<br />  
 <p style="clear: both;"> </p>
 
 # [CV](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/rudik_cv.pdf)
-
-<br />
 
 # Work in progress
 
