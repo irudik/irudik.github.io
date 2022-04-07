@@ -7,25 +7,32 @@ tags:
 
 <p><img src="https://irudik.github.io/assets/img/rudik_photo.jpg" alt="me" align="left" style="width:200px;height:256px;padding:0px">
 
-
+&nbsp; Cornell University <br /> 
+&nbsp; Dyson School of Applied Economics and Management <br /> 
 &nbsp; Ruth and William Morgan Assistant Professor of Applied Economics and Management <br /> <br />
  
-&nbsp; Dyson School of Applied Economics and Management <br /> <br />
- 
-&nbsp; Cornell University <br /> <br />
- 
-&nbsp; Teaching:  
-&nbsp; [Environmental economics (undergrad)](https://aem4510.ivanrudik.com/)  
-&nbsp; [Environmental economics (masters)](https://github.com/irudik/aem6510)   
-&nbsp; [Dynamic optimization (Ph.D.)](https://github.com/AEM7130/) <br /> <br />
+&nbsp; CESifo Research Network Affiliate <br /> <br />
 
-&nbsp; [CV](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/rudik_cv.pdf)
 
 </p>
 <br />  
+<br />  
+<br />  
+<br />  
 <p style="clear: both;"> </p>
 
-# Work in progress
+# [CV](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/rudik_cv.pdf)
+
+
+# Teaching
+ 
+### [Environmental economics (undergrad)](https://aem4510.ivanrudik.com/)  
+### [Environmental economics (masters)](https://github.com/irudik/aem6510)   
+### [Dynamic optimization (Ph.D.)](https://github.com/AEM7130/) <br /> <br />
+
+# Research
+
+## Work in progress
 
 ### Spatial and sectoral targeting of climate policy  
 Derek Lemoine, Ivan Rudik, Weiliang Tan
@@ -36,7 +43,7 @@ Frances Moore, James Rising, Simon Dietz, Moritz Drupp, Ivan Rudik, Gernot Wagne
 ### The value of improving hurricane forecasts  
 Renato Molina, Ivan Rudik
 
-# Working papers
+## Working papers
 
 ### [The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
@@ -53,7 +60,7 @@ Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders
 Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/)
 
 
-# Publications
+## Publications
 
 ### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://www.aeaweb.org/articles?id=10.1257/pol.20190654)  
 Hollingsworth, A. and I. Rudik.  
