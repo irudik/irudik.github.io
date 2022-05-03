@@ -45,7 +45,7 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 Yuanning Liang, Ivan Rudik, Eric Zou
 
 ### [A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)
-Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders (revise and resubmit at JHR)
+Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders (**revise and resubmit at the Journal of Human Resources**)
 
 Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/)
 
