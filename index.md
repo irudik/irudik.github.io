@@ -27,11 +27,11 @@ tags:
 ### Spatial and sectoral targeting of climate policy  
 Derek Lemoine, Ivan Rudik, Weiliang Tan
 
+### The social value of predicting hurricanes 
+Renato Molina, Ivan Rudik
+
 ### Structural change in the social cost of carbon  
 Frances Moore, James Rising, Simon Dietz, Moritz Drupp, Ivan Rudik, Gernot Wagner
-
-### The value of improving hurricane forecasts  
-Renato Molina, Ivan Rudik
 
 # Working papers
 
