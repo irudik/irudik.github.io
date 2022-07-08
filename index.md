@@ -24,11 +24,8 @@ tags:
 
 # Work in progress
 
-### Spatial and sectoral targeting of climate policy  
+### Targeting climate adaptation financing  
 Derek Lemoine, Ivan Rudik, Weiliang Tan
-
-### The social value of predicting hurricanes 
-Renato Molina, Ivan Rudik
 
 ### Structural change in the social cost of carbon  
 Frances Moore, James Rising, Simon Dietz, Moritz Drupp, Ivan Rudik, Gernot Wagner
@@ -43,6 +40,9 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 
 ### [Economic production and biodiversity in the United States](https://osf.io/preprints/socarxiv/qy76a)
 Yuanning Liang, Ivan Rudik, Eric Zou
+
+### The social value of predicting hurricanes 
+Renato Molina, Ivan Rudik
 
 ### [A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)
 Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders (**revise and resubmit at the Journal of Human Resources**)
