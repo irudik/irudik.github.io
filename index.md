@@ -41,7 +41,7 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 ### [Economic production and biodiversity in the United States](https://osf.io/preprints/socarxiv/qy76a)
 Yuanning Liang, Ivan Rudik, Eric Zou
 
-### The social value of predicting hurricanes 
+### [The social value of predicting hurricanes](https://osf.io/preprints/socarxiv/sqtjr) 
 Renato Molina, Ivan Rudik
 
 ### [A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)
