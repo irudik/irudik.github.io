@@ -44,12 +44,13 @@ Yuanning Liang, Ivan Rudik, Eric Zou
 ### [The social value of predicting hurricanes](https://osf.io/preprints/socarxiv/sqtjr) 
 Renato Molina, Ivan Rudik
 
+# Publications
 ### [A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)
-Alex Hollingsworth, Mike Huang, Ivan Rudik, Nick Sanders (**revise and resubmit at the Journal of Human Resources**)
+Hollingsworth, A., J.M. Huang, I. Rudik, N. Sanders.  
+The Journal of Human Resources. Forthcoming.
 
 Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/)
 
-# Publications
 
 ### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://www.aeaweb.org/articles?id=10.1257/pol.20190654)  
 Hollingsworth, A. and I. Rudik.  
