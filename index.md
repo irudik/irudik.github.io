@@ -25,7 +25,7 @@ tags:
 # Work in progress
 
 ### Targeting climate adaptation financing  
-Derek Lemoine, Ivan Rudik, Weiliang Tan
+Derek Lemoine, Antonia Marcheva, Ivan Rudik, Weiliang Tan
 
 ### Structural change in the social cost of carbon  
 Frances Moore, James Rising, Simon Dietz, Moritz Drupp, Ivan Rudik, Gernot Wagner
