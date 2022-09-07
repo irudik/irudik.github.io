@@ -48,9 +48,10 @@ Renato Molina, Ivan Rudik
 # Publications
 ### [A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)
 Hollingsworth, A., J.M. Huang, I. Rudik, N. Sanders. Forthcoming.  
-**Journal of Human Resources.** 
+**Journal of Human Resources.**  
 
-Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/)
+Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/)  
+[[ungated version](https://osf.io/preprints/socarxiv/wz73u)]
 
 
 ### [The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://www.aeaweb.org/articles?id=10.1257/pol.20190654)  
@@ -90,7 +91,7 @@ Hollingsworth, A. and I. Rudik. 2019.
 Keiser, D., G. Lade, and I. Rudik. 2018.  
 **Science Advances.** 
 
-Media: [Washington Post](https://www.washingtonpost.com/science/2019/05/28/how-your-summer-vacation-may-give-you-an-up-close-view-climate-crisis/), [New York Times](https://www.nytimes.com/2018/07/23/well/parks-ozone-air-pollution.html?alm_mvr=0), [CNN](https://www.cnn.com/2018/07/18/us/national-park-air-quality-wxc/index.html), [Associated Press](https://apnews.com/article/1d601528b4fe48dba03c69d066f44ef8), and others.   
+Media: [Washington Post](https://www.washingtonpost.com/science/2019/05/28/how-your-summer-vacation-may-give-you-an-up-close-view-climate-crisis/), [New York Times](https://www.nytimes.com/2018/07/23/well/parks-ozone-air-pollution.html?alm_mvr=0), [CNN](https://www.cnn.com/2018/07/18/us/national-park-air-quality-wxc/index.html), [Associated Press](https://apnews.com/article/1d601528b4fe48dba03c69d066f44ef8), and others   
 [[code](https://github.com/irudik/national-parks)]
 
 ### [Tradable credit markets for intensity standards](https://www.sciencedirect.com/science/article/pii/S0264999317315651)  
