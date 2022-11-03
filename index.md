@@ -50,7 +50,7 @@ Renato Molina, Ivan Rudik
 Hollingsworth, A., J.M. Huang, I. Rudik, N. Sanders. Forthcoming.  
 **Journal of Human Resources.**  
 
-Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/)  
+Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/), [The Hill](https://thehill.com/changing-america/sustainability/3716345-how-nascars-switch-to-unleaded-gas-boosted-test-scores-near-racetracks/)  
 [[ungated version](https://osf.io/preprints/socarxiv/wz73u)]
 
 <br />
