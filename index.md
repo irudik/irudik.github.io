@@ -28,9 +28,6 @@ tags:
 ### Climate adaptation portfolios 
 Derek Lemoine, Antonia Marcheva, Ivan Rudik, Weiliang Tan
 
-### Structural modeling changes drive the social cost of carbon  
-Frances Moore, James Rising, Simon Dietz, Moritz Drupp, Ivan Rudik, Gernot Wagner
-
 # Working papers
 
 ### [The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)
@@ -44,6 +41,9 @@ Yuanning Liang, Ivan Rudik, Eric Zou
 
 ### [The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr) 
 Renato Molina, Ivan Rudik
+
+### Structural modeling changes drive the social cost of carbon  
+Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner
 
 # Publications
 ### [A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)
