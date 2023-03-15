@@ -36,7 +36,7 @@ Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
 ### [Economic geography and the efficiency of environmental regulation](https://osf.io/preprints/socarxiv/x6fuw/)
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 
-### [Economic production and biodiversity in the United States](https://osf.io/preprints/socarxiv/qy76a)
+### [The Environmental Effects of Economic Production: Evidence from Ecological Observations](https://osf.io/preprints/socarxiv/qy76a)
 Yuanning Liang, Ivan Rudik, Eric Zou
 
 ### [The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr) 
