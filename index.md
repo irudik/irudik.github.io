@@ -9,7 +9,7 @@ tags:
 
 &nbsp; Cornell University <br /> 
 &nbsp; Dyson School of Applied Economics and Management <br /> 
-&nbsp; Ruth and William Morgan Assistant Professor of Applied Economics and Management <br /> <br />
+&nbsp; Associate Professor <br /> <br />
  
 &nbsp; CESifo Research Network Affiliate <br />
 &nbsp; JAERE Editorial Council <br /> <br />
