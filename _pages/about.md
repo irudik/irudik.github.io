@@ -33,8 +33,6 @@ JAERE Editorial Council
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik, Weiliang Tan
 
-<br>
-
 ## Working papers
 
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
