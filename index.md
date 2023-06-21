@@ -34,7 +34,8 @@ Derek Lemoine, Antonia Marcheva, Ivan Rudik, Weiliang Tan
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
 
 ### [Economic geography and the efficiency of environmental regulation](https://osf.io/preprints/socarxiv/x6fuw/)
-Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
+Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik  
+[**revise and resubmit at JPE: Micro**]
 
 ### [The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)
 Yuanning Liang, Ivan Rudik, Eric Zou
