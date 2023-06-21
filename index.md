@@ -25,7 +25,7 @@ tags:
 
 # Work in progress
 
-### Climate adaptation portfolios 
+### Equity and efficiency in international climate adaptation portfolios 
 Derek Lemoine, Antonia Marcheva, Ivan Rudik, Weiliang Tan
 
 # Working papers
