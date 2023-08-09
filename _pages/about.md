@@ -15,6 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<!-- bundle exec jekyll serve
+bin/deploy --user
+git push -->
+
 ## **Ivan Rudik**
 
 Associate Professor  
@@ -37,7 +41,8 @@ Derek Lemoine, Antonia Marcheva, Ivan Rudik, Weiliang Tan
 
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
-Media: [The Economic Times](https://t.co/55NzVfuCJl)
+Media: [The Economic Times](https://t.co/55NzVfuCJl)  
+[**revise and resubmit at JPE: Macro**]
 
 **[Economic geography and the efficiency of environmental regulation](https://osf.io/preprints/socarxiv/x6fuw/)**  
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik  
