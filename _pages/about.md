@@ -54,11 +54,12 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou
 
+**Evidence synthesis yields higher social cost of carbon**  
+Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner
+
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik
 
-**Evidence synthesis yields higher social cost of carbon**  
-Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner
 
 ## Publications
 **[A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)**  
