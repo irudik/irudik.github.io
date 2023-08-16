@@ -24,6 +24,9 @@ git push -->
 Associate Professor  
 Cornell University  
 Dyson School of Applied Economics and Management  
+SC Johnson College of Business
+
+Visiting University of Arizona 2023-2024
 
 CESifo Research Network Affiliate  
 JAERE Editorial Council  
