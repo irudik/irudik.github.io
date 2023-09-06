@@ -45,11 +45,11 @@ Derek Lemoine, Antonia Marcheva, Ivan Rudik, Weiliang Tan
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
 Media: [The Economic Times](https://t.co/55NzVfuCJl)  
-[**revise and resubmit at JPE: Macro**]
+<!-- [**revise and resubmit at JPE: Macro**] -->
 
 **[Economic geography and the efficiency of environmental regulation](https://osf.io/preprints/socarxiv/x6fuw/)**  
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik  
-[**revise and resubmit at JPE: Micro**]
+<!-- [**revise and resubmit at JPE: Micro**] -->
 
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou
