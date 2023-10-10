@@ -40,6 +40,9 @@ JAERE Editorial Council
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik, Weiliang Tan
 
+**Improving benefits of the Conservation Reserve Program for biodiversity**  
+Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
+
 ## Working papers
 
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
