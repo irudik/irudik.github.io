@@ -38,7 +38,7 @@ JAERE Editorial Council
 ## Work in progress
 
 **Equity and efficiency in international climate adaptation portfolios**  
-Derek Lemoine, Antonia Marcheva, Ivan Rudik, Weiliang Tan
+Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
 **Improving benefits of the Conservation Reserve Program for biodiversity**  
 Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
@@ -57,8 +57,8 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou
 
-**Evidence synthesis yields higher social cost of carbon**  
-Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner
+**Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties**  
+Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner (available upon request)
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik
