@@ -40,6 +40,9 @@ JAERE Editorial Council
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
+**Equity and efficiency in US climate adaptation funding**  
+Derek Lemoine, Antonia Marcheva, Ivan Rudik
+
 **Improving benefits of the Conservation Reserve Program for biodiversity**  
 Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
 
