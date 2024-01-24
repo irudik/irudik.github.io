@@ -48,17 +48,20 @@ Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
 Media: [The Economic Times](https://t.co/55NzVfuCJl)  
-<!-- [**revise and resubmit at JPE: Macro**] -->
+[**revise and resubmit at JPE: Macro**]
 
 **[Economic geography and the efficiency of environmental regulation](https://osf.io/preprints/socarxiv/x6fuw/)**  
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik  
-<!-- [**revise and resubmit at JPE: Micro**] -->
+[**revise and resubmit at JPE: Micro**]
 
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
-Yuanning Liang, Ivan Rudik, Eric Zou
+Yuanning Liang, Ivan Rudik, Eric Zou  
+[**revise and resubmit at Journal of Public Economics**]
+
 
 **Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties**  
-Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner (available upon request)
+Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner (available upon request)  [**reject and resubmit at Science**]
+
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik
