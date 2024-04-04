@@ -55,7 +55,7 @@ Media: [The Economic Times](https://t.co/55NzVfuCJl)
 
 **[Economic geography and the efficiency of environmental regulation](https://osf.io/preprints/socarxiv/x6fuw/)**  
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik  
-[**revise and resubmit at JPE: Micro**]
+[**conditionally accepted at JPE: Micro**]
 
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou  
