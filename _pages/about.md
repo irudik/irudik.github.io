@@ -40,8 +40,6 @@ JAERE Editorial Council
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
-**Equity and efficiency in US climate adaptation funding**  
-Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
 **Improving benefits of the Conservation Reserve Program for biodiversity**  
 Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
@@ -53,7 +51,7 @@ Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
 Media: [The Economic Times](https://t.co/55NzVfuCJl)  
 [**revise and resubmit at JPE: Macro**]
 
-**[Economic geography and the efficiency of environmental regulation](https://osf.io/preprints/socarxiv/x6fuw/)**  
+**[Economic geography and the efficiency of air pollution regulation in the United States](https://osf.io/preprints/socarxiv/x6fuw/)**  
 Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik  
 [**conditionally accepted at JPE: Micro**]
 
@@ -61,13 +59,17 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 Yuanning Liang, Ivan Rudik, Eric Zou  
 [**revise and resubmit at Journal of Public Economics**]
 
+**Equity and Efficiency in the Bipartisan Infrastructure Law’s Adaptation Investments**  
+Ivan Rudik, Derek Lemoine, Antonia Marcheva (randomized author order)
+
+**[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
+Renato Molina, Ivan Rudik
 
 **Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties**  
 Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner (available upon request)  [**reject and resubmit at Science**]
 
 
-**[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
-Renato Molina, Ivan Rudik
+
 
 
 ## Publications
