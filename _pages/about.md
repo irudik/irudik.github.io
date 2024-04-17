@@ -28,6 +28,7 @@ SC Johnson College of Business
 
 Visiting University of Arizona 2023-2024
 
+NBER Research Associate  
 CESifo Research Network Affiliate  
 JAERE Editorial Council  
 
@@ -37,9 +38,11 @@ JAERE Editorial Council
 
 ## Work in progress
 
+**The bias of climate change**  
+Tianzi Liu, Ivan Rudik, Zebang Xu
+
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
-
 
 **Improving benefits of the Conservation Reserve Program for biodiversity**  
 Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
@@ -69,10 +72,7 @@ Renato Molina, Ivan Rudik
 Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner (available upon request)  [**reject and resubmit at Science**]
 
 
-
-
-
-## Publications
+## Published and Forthcoming Papers
 **[A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)**  
 Hollingsworth, A., J.M. Huang, I. Rudik, N. Sanders. Forthcoming.  
 **Journal of Human Resources.**  
