@@ -38,9 +38,6 @@ JAERE Editorial Council
 
 ## Work in progress
 
-**The bias of climate change**  
-Tianzi Liu, Ivan Rudik, Zebang Xu
-
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
