@@ -21,12 +21,13 @@ git push -->
 
 ## **Ivan Rudik**
 
-Associate Professor  
+Chief Environmental Economist  
+White House Office of Science and Technology Policy
+
+Associate Professor (on leave)  
 Cornell University  
 Dyson School of Applied Economics and Management  
 SC Johnson College of Business
-
-Visiting University of Arizona 2023-2024
 
 NBER Research Associate  
 CESifo Research Network Affiliate  
@@ -61,7 +62,8 @@ Yuanning Liang, Ivan Rudik, Eric Zou
 Ivan Rudik, Derek Lemoine, Antonia Marcheva (randomized author order)
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
-Renato Molina, Ivan Rudik
+Renato Molina, Ivan Rudik  
+Media: [Marketplace](https://www.marketplace.org/2024/05/27/biden-administrationhurricane-forecasting-investment/)
 
 **Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties**  
 Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner (available upon request)

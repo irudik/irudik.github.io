@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.17)  13 MAY 2024 06:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.17)  27 MAY 2024 16:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -368,7 +368,6 @@ Overfull \hbox (3.5194pt too wide) in paragraph at lines 171--172
 
 
 
-
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 278.
@@ -388,6 +387,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 278.
 
 [5
+
 
 
 
@@ -427,7 +427,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  71i,8n,74p,1251b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.pdf (6 pages, 90466 bytes).
+Output written on /Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.pdf (6 pages, 90259 bytes).
 PDF statistics:
  139 PDF objects out of 1000 (max. 8388607)
  123 compressed objects within 2 object streams
