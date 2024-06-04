@@ -58,8 +58,8 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou  
 
-**Equity and Efficiency in the Bipartisan Infrastructure Law’s Adaptation Investments**  
-Ivan Rudik, Derek Lemoine, Antonia Marcheva (randomized author order)
+**[Equity and Efficiency in the Bipartisan Infrastructure Law’s Adaptation Investments](https://www.nber.org/books-and-chapters/environmental-and-energy-policy-and-economy-volume-6/equity-and-efficiency-bipartisan-infrastructure-laws-adaptation-investments)**  
+Ivan Rudik, Derek Lemoine, Antonia Marcheva (randomized author order, NBER EEPE Book Chapter)
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik  
