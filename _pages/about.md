@@ -63,10 +63,11 @@ Ivan Rudik, Derek Lemoine, Antonia Marcheva (randomized author order, NBER EEPE 
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik  
-Media: [Marketplace](https://www.marketplace.org/2024/05/27/biden-administrationhurricane-forecasting-investment/)
+Media: [Marketplace](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/)
 
-**Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties**  
-Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner (available upon request)
+**[Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties](https://www.nber.org/papers/w32544)**  
+Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner  
+Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html) 
 
 
 ## Published and Forthcoming Papers
