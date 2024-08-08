@@ -58,9 +58,6 @@ Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou  
 
-**[Equity and Efficiency in the Bipartisan Infrastructure Law’s Adaptation Investments](https://www.nber.org/books-and-chapters/environmental-and-energy-policy-and-economy-volume-6/equity-and-efficiency-bipartisan-infrastructure-laws-adaptation-investments)**  
-Ivan Rudik, Derek Lemoine, Antonia Marcheva (randomized author order, NBER EEPE Book Chapter)
-
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik  
 Media: [Marketplace](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/)
@@ -71,6 +68,10 @@ Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/
 
 
 ## Published and Forthcoming Papers
+**[Equity and Efficiency in the Bipartisan Infrastructure Law’s Adaptation Investments](https://www.nber.org/books-and-chapters/environmental-and-energy-policy-and-economy-volume-6/equity-and-efficiency-bipartisan-infrastructure-laws-adaptation-investments)**  
+Rudik, I., D. Lemoine, A. Marcheva (randomized). Forthcoming.  
+**NBER Environmental and Energy Policy and the Economy Volume 6.**  
+
 **[A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)**  
 Hollingsworth, A., J.M. Huang, I. Rudik, N. Sanders. Forthcoming.  
 **Journal of Human Resources.**  
