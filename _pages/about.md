@@ -51,10 +51,6 @@ Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
 Media: [The Economic Times](https://t.co/55NzVfuCJl) 
 
-**[Economic geography and the efficiency of air pollution regulation in the United States](https://osf.io/preprints/socarxiv/x6fuw/)**  
-Alex Hollingsworth, Taylor Jaworski, Carl Kitchens, Ivan Rudik  
-[**conditionally accepted at JPE: Micro**]
-
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou  
 
@@ -68,6 +64,11 @@ Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/
 
 
 ## Published and Forthcoming Papers
+
+**[Economic geography and the efficiency of air pollution regulation in the United States](https://osf.io/preprints/socarxiv/x6fuw/)**  
+Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. Forthcoming.  
+**JPE: Microeconomics.**
+
 **[Equity and Efficiency in the Bipartisan Infrastructure Law’s Adaptation Investments](https://www.nber.org/books-and-chapters/environmental-and-energy-policy-and-economy-volume-6/equity-and-efficiency-bipartisan-infrastructure-laws-adaptation-investments)**  
 Rudik, I., D. Lemoine, A. Marcheva (randomized). Forthcoming.  
 **NBER Environmental and Energy Policy and the Economy Volume 6.**  
