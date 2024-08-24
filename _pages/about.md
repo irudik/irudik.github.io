@@ -67,7 +67,7 @@ Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/
 
 **[Economic geography and the efficiency of air pollution regulation in the United States](https://osf.io/preprints/socarxiv/x6fuw/)**  
 Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. Forthcoming.  
-**JPE: Microeconomics.**
+**Journal of Political Economy: Microeconomics.**
 
 **[Equity and Efficiency in the Bipartisan Infrastructure Law’s Adaptation Investments](https://www.nber.org/books-and-chapters/environmental-and-energy-policy-and-economy-volume-6/equity-and-efficiency-bipartisan-infrastructure-laws-adaptation-investments)**  
 Rudik, I., D. Lemoine, A. Marcheva (randomized). Forthcoming.  
