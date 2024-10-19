@@ -42,6 +42,9 @@ CESifo Research Network Affiliate
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
+**The factor bias of climate change and the distribution of income**  
+Tianzi Liu, Ivan Rudik, Zebang Xu
+
 **Improving benefits of the Conservation Reserve Program for biodiversity**  
 Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
 
