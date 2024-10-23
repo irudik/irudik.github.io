@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: rudik_photo.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -48,6 +48,9 @@ Tianzi Liu, Ivan Rudik, Zebang Xu
 **Improving benefits of the Conservation Reserve Program for biodiversity**  
 Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
 
+**The value and optimal deployment of augmented observations for hurricane forecasts**  
+Diego Cardoso, Renato Molina, Ivan Rudik
+
 ## Working papers
 
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
@@ -59,11 +62,11 @@ Yuanning Liang, Ivan Rudik, Eric Zou
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik  
-Media: [Marketplace](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/)
+Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/), [Marketplace 2](https://www.marketplace.org/2024/05/27/biden-administrationhurricane-forecasting-investment/)
 
 **[Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties](https://www.nber.org/papers/w32544)**  
 Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner  
-Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html) 
+Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html)  
 
 
 ## Published and Forthcoming Papers
