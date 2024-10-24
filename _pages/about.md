@@ -71,7 +71,7 @@ Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/
 
 ## Published and Forthcoming Papers
 
-**[Economic geography and the efficiency of air pollution regulation in the United States](https://osf.io/preprints/socarxiv/x6fuw/)**  
+**[Economic geography and air pollution regulation in the United States](https://osf.io/preprints/socarxiv/x6fuw/)**  
 Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. Forthcoming.  
 **Journal of Political Economy: Microeconomics.**
 
