@@ -39,14 +39,17 @@ CESifo Research Network Affiliate
 
 ## Work in progress
 
+**Climate change, productivity, and market power**  
+Shanjun Li, Jack Ma, Ivan Rudik, Hui Zhou
+
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
 **The factor bias of climate change and the distribution of income**  
 Tianzi Liu, Ivan Rudik, Zebang Xu
-
+<!-- 
 **Improving benefits of the Conservation Reserve Program for biodiversity**  
-Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik
+Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik -->
 
 **The value and optimal deployment of augmented observations for hurricane forecasts**  
 Diego Cardoso, Renato Molina, Ivan Rudik
@@ -55,21 +58,24 @@ Diego Cardoso, Renato Molina, Ivan Rudik
 
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
-Media: [The Economic Times](https://t.co/55NzVfuCJl) 
+Media: [The Economic Times](https://t.co/55NzVfuCJl)  
+**R&R at JPE: Macro**
 
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou  
+**R&R at Journal of Public Economics**
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik  
 Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/), [Marketplace 2](https://www.marketplace.org/2024/05/27/biden-administrationhurricane-forecasting-investment/)
 
-**[Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties](https://www.nber.org/papers/w32544)**  
-Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner  
-Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html)  
-
 
 ## Published and Forthcoming Papers
+
+**[Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties](https://www.nber.org/papers/w32544)**  
+Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner. Forthcoming.  
+**Proceedings of the National Academy of Sciences.**  
+Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html)  
 
 **[Economic geography and air pollution regulation in the United States](https://osf.io/preprints/socarxiv/x6fuw/)**  
 Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. Forthcoming.  
