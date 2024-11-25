@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.17)  11 NOV 2024 11:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.17)  16 NOV 2024 05:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -291,4 +291,147 @@ Package hyperref Info: Link coloring ON on input line 12.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count279
+)
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 32.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+] [2
+
+]
+Overfull \hbox (3.5194pt too wide) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 CIREQ-GW Macroe-cono-met-ric Work-shop (dis-cus-sant), Uni-ver-sity of Mas-sachusetts, Philade-
+ []
+
+[3
+
+
+
+
+
+
+
+
+] [4
+
+
+
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 279.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 279.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 279.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Upsilon' on input line 279.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 279.
+
+[5
+
+
+
+
+
+
+
+
+
+
+
+
+]
+Overfull \hbox (0.73264pt too wide) in paragraph at lines 298--300
+ []\OT1/cmr/bx/n/12 2022:[] \OT1/cmr/m/it/12 Xuquan Ma$[]$ (Berke-ley Health Pol-icy Ph.D.)\OT1/cmr/m/n/12 , Gemma Del Rossi (UCSB Bren Ph.D.),
+ []
+
+[6
+
+
+
+
+
+
+
+
+
+
+
+
+] ) 
+Here is how much of TeX's memory you used:
+ 8499 strings out of 478994
+ 126712 string characters out of 5858184
+ 436985 words of memory out of 5000000
+ 25862 multiletter control sequences out of 15000+600000
+ 409043 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,8n,74p,1242b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on /Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.pdf (6 pages, 91703 bytes).
+PDF statistics:
+ 143 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
