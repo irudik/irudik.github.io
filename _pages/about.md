@@ -89,7 +89,8 @@ Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-stu
 **[Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties](https://www.pnas.org/doi/10.1073/pnas.2410733121)**  
 Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner. 2024.  
 **Proceedings of the National Academy of Sciences.**  
-Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html)  
+Media: [The New York Times](https://www.nytimes.com/2024/06/20/business/economy/financial-industry-climate.html)   
+[[ungated version](https://www.nber.org/papers/w32544)] [[code](https://zenodo.org/records/14263936)]
 
 **[The effect of leaded gasoline on elderly mortality: Evidence from regulatory exemptions](https://www.aeaweb.org/articles?id=10.1257/pol.20190654)**  
 Hollingsworth, A. and I. Rudik. 2021.  
