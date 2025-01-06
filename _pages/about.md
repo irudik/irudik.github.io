@@ -57,11 +57,9 @@ Diego Cardoso, Renato Molina, Ivan Rudik
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
 Media: [The Economic Times](https://t.co/55NzVfuCJl)  
-**R&R at JPE: Macro**
 
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou  
-**R&R at Journal of Public Economics**
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik  
