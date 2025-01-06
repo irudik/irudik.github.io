@@ -21,16 +21,17 @@ git push -->
 
 ## **Ivan Rudik**
 
-Chief Environmental Economist  
-White House Office of Science and Technology Policy
-
-Associate Professor (on leave)  
+Associate Professor  
+Director of Graduate Studies  
 Cornell University  
 Dyson School of Applied Economics and Management  
 SC Johnson College of Business
 
 NBER Research Associate  
 CESifo Research Network Affiliate  
+
+<!-- Former Chief Environmental Economist  
+White House Office of Science and Technology Policy -->
 <!-- JAERE Editorial Council   -->
 
 ### [CV](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/rudik_cv.pdf)
@@ -47,9 +48,6 @@ Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
 **The factor bias of climate change and the distribution of income**  
 Tianzi Liu, Ivan Rudik, Zebang Xu
-<!-- 
-**Improving benefits of the Conservation Reserve Program for biodiversity**  
-Chen-Ti Chen, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik -->
 
 **The value and optimal deployment of augmented observations for hurricane forecasts**  
 Diego Cardoso, Renato Molina, Ivan Rudik
@@ -153,4 +151,5 @@ Media: Futurity, Iowa Public Radio (River to River)
  
 [Environmental economics (undergrad)](https://aem4510.ivanrudik.com/)  
 [Environmental economics (masters)](https://github.com/irudik/aem6510)   
+[Environmental economics (Ph.D.)](https://github.com/irudik/aem7510)   
 [Dynamic optimization (Ph.D.)](https://github.com/AEM7130/) <br /> <br />
