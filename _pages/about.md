@@ -57,13 +57,16 @@ Diego Cardoso, Renato Molina, Ivan Rudik
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
 Media: [The Economic Times](https://t.co/55NzVfuCJl)  
+<!-- **Revise and resubmit at Journal of Political Economy: Macroeconomics**   -->
 
 **[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
 Yuanning Liang, Ivan Rudik, Eric Zou  
+<!-- **Revise and resubmit at Journal of Public Economics**   -->
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik  
-Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/), [Marketplace 2](https://www.marketplace.org/2024/05/27/biden-administrationhurricane-forecasting-investment/), [Planet Money](https://www.npr.org/2024/11/11/1212475049/indicator-what-is-weather-forecasts-worth), [NBER Digest](https://www.nber.org/digest/202409/value-improving-hurricane-forecasts)
+Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/), [Marketplace 2](https://www.marketplace.org/2024/05/27/biden-administrationhurricane-forecasting-investment/), [Planet Money](https://www.npr.org/2024/11/11/1212475049/indicator-what-is-weather-forecasts-worth), [NBER Digest](https://www.nber.org/digest/202409/value-improving-hurricane-forecasts)  
+<!-- **Revise and resubmit at American Economic Journal: Economic Policy**   -->
 
 
 ## Published and Forthcoming Papers
