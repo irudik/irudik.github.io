@@ -40,13 +40,16 @@ White House Office of Science and Technology Policy -->
 
 ## Work in progress
 
-**Climate change, productivity, and market power**  
+**Clean technical change**  
+Andrew Butters, Jackson Dorsey, Ivan Rudik
+
+**Climate change and market power**  
 Shanjun Li, Jack Ma, Ivan Rudik, Hui Zhou
 
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
-**The factor bias of climate change and the distribution of income**  
+**The technical bias of climate change and the distribution of income**  
 Tianzi Liu, Ivan Rudik, Zebang Xu
 
 **The value and optimal deployment of augmented observations for hurricane forecasts**  
