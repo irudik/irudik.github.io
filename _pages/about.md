@@ -46,11 +46,11 @@ Andrew Butters, Jackson Dorsey, Ivan Rudik
 **Climate change and market power**  
 Shanjun Li, Jack Ma, Ivan Rudik, Hui Zhou
 
+**The distributional and aggregate effects of factor-biased climate change**  
+Tianzi Liu, Ivan Rudik, Zebang Xu
+
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
-
-**The technical bias of climate change and the distribution of income**  
-Tianzi Liu, Ivan Rudik, Zebang Xu
 
 **The value and optimal deployment of augmented observations for hurricane forecasts**  
 Diego Cardoso, Renato Molina, Ivan Rudik
@@ -78,15 +78,16 @@ Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-f
 Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. Forthcoming.  
 **Journal of Political Economy: Microeconomics.**
 
-**[Equity and Efficiency in the Bipartisan Infrastructure Law’s Adaptation Investments](https://www.nber.org/books-and-chapters/environmental-and-energy-policy-and-economy-volume-6/equity-and-efficiency-bipartisan-infrastructure-laws-adaptation-investments)**  
-Rudik, I., D. Lemoine, A. Marcheva (randomized). Forthcoming.  
-**NBER Environmental and Energy Policy and the Economy Volume 6.**  
-
 **[A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)**  
 Hollingsworth, A., J.M. Huang, I. Rudik, N. Sanders. Forthcoming.  
 **Journal of Human Resources.**  
 Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/), [The Hill](https://thehill.com/changing-america/sustainability/3716345-how-nascars-switch-to-unleaded-gas-boosted-test-scores-near-racetracks/), [Econofact](https://econofact.org/educational-benefits-of-reducing-lead-exposure), [The Guardian](https://www.theguardian.com/us-news/2023/jun/21/lead-emissions-racetracks-portland-international-raceway)  
 [[ungated version](https://osf.io/preprints/socarxiv/wz73u)] [[code](https://www.openicpsr.org/openicpsr/project/179422/)]
+
+**[Equity and Efficiency in the Bipartisan Infrastructure Law’s Adaptation Investments](https://www.journals.uchicago.edu/doi/10.1086/733357)**  
+Rudik, I., D. Lemoine, A. Marcheva (randomized). 2025.  
+**NBER Environmental and Energy Policy and the Economy Volume 6.**  
+[[ungated version](https://www.nber.org/books-and-chapters/environmental-and-energy-policy-and-economy-volume-6/equity-and-efficiency-bipartisan-infrastructure-laws-adaptation-investments)]
 
 **[Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties](https://www.pnas.org/doi/10.1073/pnas.2410733121)**  
 Frances Moore, Moritz Drupp, James Rising, Simon Dietz, Ivan Rudik, Gernot Wagner. 2024.  
