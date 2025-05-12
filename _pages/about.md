@@ -79,7 +79,7 @@ Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. Forthcoming.
 **Journal of Political Economy: Microeconomics.**
 
 **[A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)**  
-Hollingsworth, A., J.M. Huang, I. Rudik, N. Sanders. Forthcoming.  
+Hollingsworth, A., J.M. Huang, I. Rudik, N. Sanders. 2025.  
 **Journal of Human Resources.**  
 Media: [The 74](https://www.the74million.org/lead-poisoning-hurts-kids-a-new-study-shows-how-exposure-from-an-unexpected-source-nascar-racetracks-lowered-test-scores/), [Tradeoffs](https://tradeoffs.org/2021/06/04/what-nascar-can-teach-us-about-pollution-and-social-determinants-of-health/), [The Hill](https://thehill.com/changing-america/sustainability/3716345-how-nascars-switch-to-unleaded-gas-boosted-test-scores-near-racetracks/), [Econofact](https://econofact.org/educational-benefits-of-reducing-lead-exposure), [The Guardian](https://www.theguardian.com/us-news/2023/jun/21/lead-emissions-racetracks-portland-international-raceway)  
 [[ungated version](https://osf.io/preprints/socarxiv/wz73u)] [[code](https://www.openicpsr.org/openicpsr/project/179422/)]
