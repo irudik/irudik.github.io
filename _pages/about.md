@@ -40,7 +40,7 @@ White House Office of Science and Technology Policy
 
 ## Work in progress
 
-**Clean technical change**  
+**How firms cut carbon**  
 Andrew Butters, Jackson Dorsey, Ivan Rudik
 
 **Climate change and market power**  
