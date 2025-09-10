@@ -70,11 +70,11 @@ Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-f
 
 ## Published and Forthcoming Papers
 
-**[The environmental effects of economic production: Evidence from ecological observations](https://osf.io/preprints/socarxiv/qy76a)**  
-Liang, Y., I. Rudik, E. Zou. Conditionally Accepted.  
+**[Economic activity and biodiversity in the United States](https://www.nber.org/papers/w29357)**  
+Liang, Y., I. Rudik, E. Zou. Forthcoming.  
 **Journal of Public Economics.**
 
-**[Economic geography and air pollution regulation in the United States](https://osf.io/preprints/socarxiv/x6fuw/)**  
+**[Economic geography and air pollution regulation in the United States](https://www.nber.org/papers/w29845)**  
 Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. Forthcoming.  
 **Journal of Political Economy: Microeconomics.**
 
