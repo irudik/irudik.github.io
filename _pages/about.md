@@ -29,10 +29,11 @@ SC Johnson College of Business
 
 NBER Research Associate  
 CESifo Research Network Affiliate  
+JAERE Editorial Council  
 
 Former Chief Environmental Economist  
 White House Office of Science and Technology Policy
-<!-- JAERE Editorial Council   -->
+<!--    -->
 
 ### [CV](https://raw.githack.com/irudik/irudik.github.io/master/assets/pdf/rudik_cv.pdf)
 
