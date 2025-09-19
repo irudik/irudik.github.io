@@ -1,25 +1,18 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+
+ruby ">= 3.3", "< 3.6"
+
+gem "jekyll", "~> 4.4"
+gem "webrick"
+gem "ostruct"
+gem "logger"
+
 group :jekyll_plugins do
-    gem 'classifier-reborn'
-    gem 'jekyll'
-    gem 'jekyll-archives'
-    gem 'jekyll-diagrams'
-    gem 'jekyll-email-protect'
-    gem 'jekyll-feed'
-    gem 'jekyll-imagemagick'
-    gem 'jekyll-link-attributes'
-    gem 'jekyll-minifier'
-    gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-toc'
-    gem 'jekyll-twitter-plugin'
-    gem 'jemoji'
-    gem 'mini_racer'
-    gem 'unicode_utils'
-    gem 'webrick'
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
 end
-group :other_plugins do
-    gem 'feedjira'
-    gem 'httparty'
-end
+
+gem "jekyll-archives", "~> 2.3", group: :jekyll_plugins
+
+gem "feedjira", "~> 4.0"
