@@ -71,13 +71,13 @@ Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-f
 
 ## Published and Forthcoming Papers
 
-**[Economic activity and biodiversity in the United States](https://www.nber.org/papers/w29357)**  
-Liang, Y., I. Rudik, E. Zou. Forthcoming.  
-**Journal of Public Economics.**
-
 **[Economic geography and air pollution regulation in the United States](https://www.nber.org/papers/w29845)**  
 Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. Forthcoming.  
 **Journal of Political Economy: Microeconomics.**
+
+**[Economic activity and biodiversity in the United States](https://www.sciencedirect.com/science/article/pii/S004727272500180X)**  
+Liang, Y., I. Rudik, E. Zou. 2025.  
+**Journal of Public Economics.**
 
 **[A thousand cuts: Cumulative lead exposure reduces academic achievement](https://www.nber.org/papers/w28250)**  
 Hollingsworth, A., J.M. Huang, I. Rudik, N. Sanders. 2025.  
