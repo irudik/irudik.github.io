@@ -28,8 +28,9 @@ Dyson School of Applied Economics and Management
 SC Johnson College of Business
 
 NBER Research Associate  
-CESifo Research Network Affiliate  
+EDF Economics Advisory Council  
 JAERE Editorial Council  
+CESifo Research Network Affiliate  
 
 Former Chief Environmental Economist  
 White House Office of Science and Technology Policy

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  6 OCT 2025 13:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  14 OCT 2025 13:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,6 +392,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 303.
 
 
+Overfull \hbox (20.10974pt too wide) in paragraph at lines 307--309
+ []\OT1/cmr/bx/n/10.95 Current:[] \OT1/cmr/m/it/10.95 Vir-ginia Cal-li-son$[]$\OT1/cmr/m/n/10.95 ; \OT1/cmr/m/it/10.95 Chrisma D'Souza$[]$\OT1/cmr/m/n/10.95 ; \OT1/cmr/m/it/10.95 Luc Es-prabens$[]$\OT1/cmr/m/n/10.95 ; \OT1/cmr/m/it/10.95 Tianzi Liu$[]$\OT1/cmr/m/n/10.95 ;\OT1/cmr/m/it/10.95 Antonia Marcheva$[]$\OT1/cmr/m/n/10.95 ;
+ []
+
+
 
 [5
 
@@ -436,7 +441,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,8n,79p,1242b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on rudik_cv.pdf (6 pages, 124600 bytes).
+Output written on rudik_cv.pdf (6 pages, 125033 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  139 compressed objects within 2 object streams
