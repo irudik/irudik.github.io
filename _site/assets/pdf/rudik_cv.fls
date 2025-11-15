@@ -1,8 +1,8 @@
-PWD /Users/ir229/Desktop/git/irudik.github.io/assets/pdf
+PWD /Users/ir229/Desktop/git/irudik.github.io/_site/assets/pdf
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.tex
+INPUT /Users/ir229/Desktop/git/irudik.github.io/_site/assets/pdf/rudik_cv.tex
 OUTPUT rudik_cv.log
 INPUT ./res.cls
 INPUT res.cls
