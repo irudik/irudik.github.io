@@ -42,7 +42,7 @@ White House Office of Science and Technology Policy
 
 ## Work in progress
 
-**How firms cut carbon**  
+**Pollution pricing in equilibrium**  
 Andrew Butters, Jackson Dorsey, Ivan Rudik
 
 **Climate change and market power**  
@@ -54,15 +54,16 @@ Tianzi Liu, Ivan Rudik, Zebang Xu
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
-**The value and optimal deployment of augmented observations for hurricane forecasts**  
-Diego Cardoso, Renato Molina, Ivan Rudik
-
 ## Working papers
 
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
 Media: [The Economic Times](https://t.co/55NzVfuCJl)  
 <!-- **Revise and resubmit at Journal of Political Economy: Macroeconomics**   -->
+
+**The long run distributional effects of climate change**  
+Tianzi Liu, Ivan Rudik, Zebang Xu  
+**For AEA Papers and Proceedings**
 
 **[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
 Renato Molina, Ivan Rudik  
