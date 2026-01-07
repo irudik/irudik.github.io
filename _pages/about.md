@@ -61,7 +61,7 @@ Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
 Media: [The Economic Times](https://t.co/55NzVfuCJl)  
 <!-- **Revise and resubmit at Journal of Political Economy: Macroeconomics**   -->
 
-**The long run distributional effects of climate change**  
+**Climate change and long run factor shares**  
 Tianzi Liu, Ivan Rudik, Zebang Xu  
 **For AEA Papers and Proceedings**
 
