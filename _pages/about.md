@@ -74,7 +74,7 @@ Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-f
 ## Published and Forthcoming Papers
 
 **[Economic geography and air pollution regulation in the United States](https://www.nber.org/papers/w29845)**  
-Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. Forthcoming.  
+Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. 2026.  
 **Journal of Political Economy: Microeconomics.**
 
 **[Economic activity and biodiversity in the United States](https://www.sciencedirect.com/science/article/pii/S004727272500180X)**  
