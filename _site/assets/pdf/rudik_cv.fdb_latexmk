@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1767206727.43219 "/Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.tex" "rudik_cv.pdf" "rudik_cv" 1767206727.7857 0
-  "/Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.tex" 1767206727.25477 20657 e0c643555a08bd276cf8c428f94df1c8 ""
+["pdflatex"] 1771540404.50582 "/Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.tex" "rudik_cv.pdf" "rudik_cv" 1771540405.07908 0
+  "/Users/ir229/Desktop/git/irudik.github.io/assets/pdf/rudik_cv.tex" 1771540404.02911 20892 b882eb1619245a7a93b1d90bf5c22403 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -75,7 +75,7 @@
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "res.cls" 1758308434 25066 8ec1e15ab4c53340bc92863668c7be49 ""
   "rudik_cv.aux" 1758308434 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "rudik_cv.tex" 1767206727.25477 20657 e0c643555a08bd276cf8c428f94df1c8 ""
+  "rudik_cv.tex" 1771540404.02911 20892 b882eb1619245a7a93b1d90bf5c22403 ""
   (generated)
   "rudik_cv.aux"
   "rudik_cv.log"

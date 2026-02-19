@@ -65,13 +65,13 @@ Media: [The Economic Times](https://t.co/55NzVfuCJl)
 Tianzi Liu, Ivan Rudik, Zebang Xu  
 **For AEA Papers and Proceedings**
 
-**[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
-Renato Molina, Ivan Rudik  
-Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/), [Marketplace 2](https://www.marketplace.org/2024/05/27/biden-administrationhurricane-forecasting-investment/), [Planet Money](https://www.npr.org/2024/11/11/1212475049/indicator-what-is-weather-forecasts-worth), [NBER Digest](https://www.nber.org/digest/202409/value-improving-hurricane-forecasts)  
-**Conditionally accepted at American Economic Journal: Economic Policy**  
-
-
 ## Published and Forthcoming Papers
+
+
+**[The social value of hurricane forecasts](https://osf.io/preprints/socarxiv/sqtjr)**  
+Molina, R. and I. Rudik. Forthcoming.  
+Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/), [Marketplace 2](https://www.marketplace.org/2024/05/27/biden-administrationhurricane-forecasting-investment/), [Planet Money](https://www.npr.org/2024/11/11/1212475049/indicator-what-is-weather-forecasts-worth), [NBER Digest](https://www.nber.org/digest/202409/value-improving-hurricane-forecasts)  
+**American Economic Journal: Economic Policy**  
 
 **[Economic geography and air pollution regulation in the United States](https://www.nber.org/papers/w29845)**  
 Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. 2026.  
