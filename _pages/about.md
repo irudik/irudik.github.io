@@ -21,7 +21,7 @@ git push -->
 
 ## **Ivan Rudik**
 
-Associate Professor  
+Kenneth L. Robinson Professor of Applied Economics and Public Policy
 Director of Graduate Studies  
 Cornell University  
 Dyson School of Applied Economics and Management  
@@ -46,7 +46,7 @@ White House Office of Science and Technology Policy
 Andrew Butters, Jackson Dorsey, Ivan Rudik
 
 **Climate change and market power**  
-Shanjun Li, Jack Ma, Ivan Rudik, Hui Zhou
+Jack Ma, Hui Zhou, Wangyan Lai, Ivan Rudik, Shanjun Li
 
 **The distributional and aggregate effects of factor-biased climate change**  
 Tianzi Liu, Ivan Rudik, Zebang Xu
