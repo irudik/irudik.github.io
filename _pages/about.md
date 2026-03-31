@@ -46,7 +46,7 @@ White House Office of Science and Technology Policy
 Andrew Butters, Jackson Dorsey, Ivan Rudik
 
 **Climate change and market power**  
-Jack Ma, Hui Zhou, Wangyan Lai, Ivan Rudik, Shanjun Li
+Jack Ma, Hui Zhou, Wangyang Lai, Ivan Rudik, Shanjun Li
 
 **The distributional and aggregate effects of factor-biased climate change**  
 Tianzi Liu, Ivan Rudik, Zebang Xu
