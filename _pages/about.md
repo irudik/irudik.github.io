@@ -56,6 +56,9 @@ Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
 ## Working papers
 
+**[Are carbon tariffs climate policy?](https://www.dropbox.com/scl/fi/jqjg9903c2m97kyagmh1r/CaseyMengRudik_carbon_tariffs.pdf?rlkey=vt1jja2dxgrqatmszyr10yajs&dl=1)**  
+Gregory Casey, Kyle C. Meng, Ivan Rudik
+
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
 Media: [The Economic Times](https://t.co/55NzVfuCJl)  
