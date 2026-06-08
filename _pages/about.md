@@ -21,11 +21,11 @@ git push -->
 
 ## **Ivan Rudik**
 
-Kenneth L. Robinson Professor of Applied Economics and Public Policy
+Kenneth L. Robinson Professor of Applied Economics and Public Policy  
+Associate Professor  
 Director of Graduate Studies  
 Cornell University  
 Dyson School of Applied Economics and Management  
-SC Johnson College of Business
 
 NBER Research Associate  
 EDF Economics Advisory Council  
