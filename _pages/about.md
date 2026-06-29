@@ -42,8 +42,6 @@ White House Office of Science and Technology Policy
 
 ## Work in progress
 
-**Pollution pricing in equilibrium**  
-Andrew Butters, Jackson Dorsey, Ivan Rudik
 
 **Climate change and market power**  
 Jack Ma, Hui Zhou, Wangyang Lai, Ivan Rudik, Shanjun Li
@@ -54,10 +52,18 @@ Tianzi Liu, Ivan Rudik, Zebang Xu
 **Equity and efficiency in international climate adaptation portfolios**  
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
+
+**Pollution pricing in equilibrium: Production, reallocation, and aggregate impacts**  
+Andrew Butters, Jackson Dorsey, Ivan Rudik
+
 ## Working papers
 
 **[Are carbon tariffs climate policy?](https://www.nber.org/papers/w35307)**  
 Gregory Casey, Kyle C. Meng, Ivan Rudik
+
+**Bird Returns on public investment in the Conservation Reserve Program**  
+Chen-Ti Chen, Tianjiao Mei, Alison Johnston, Catherine Kling, Amanda Rodewald, Ivan Rudik  
+**Revise and resubmit at Nature: Communications**
 
 **[The economic effects of climate change in dynamic spatial equilibrium](https://osf.io/preprints/socarxiv/usghb)**  
 Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea  
