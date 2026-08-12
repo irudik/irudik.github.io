@@ -1,0 +1,9 @@
+# Codex CLI project configuration
+# Override these defaults in ~/.codex/config.toml for user-level settings
+
+model = "gpt-5.6-sol"
+model_reasoning_effort = "xhigh"
+personality = "pragmatic"
+sandbox_mode = "danger-full-access"
+service_tier = "fast"
+plan_mode_reasoning_effort = "high"

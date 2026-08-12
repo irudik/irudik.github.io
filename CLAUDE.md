@@ -18,6 +18,9 @@
 - **Readable research code** -- prefer clear, reproducible, prose-like code
   over clever compactness; code should be easy for coauthors, referees, and
   future selves to audit
+- **Plain-language writing** -- all prose (replies, issues, reports,
+  comments) follows `protocols/writing.md`; write for an economist coauthor,
+  never in programmer jargon
 - **Single source of truth** -- `latex/manuscript.tex` is authoritative for the paper
 - **Quality gates** -- apply scoring before commit or merge when it adds value;
   do not score every routine edit
@@ -34,7 +37,8 @@
 ├── AGENTS.md                    # Codex CLI instructions
 ├── MEMORY.md                    # Persistent [LEARN] entries across sessions
 ├── Makefile                     # Root — delegates to code/ and latex/
-├── protocols/                   # Canonical shared skill bodies
+├── protocols/                   # Shared writing guide and skill bodies
+│   ├── writing.md
 │   └── skills/
 │       └── *.md
 ├── .claude/                     # Claude Code: settings, wrappers, agents, hooks
@@ -117,7 +121,7 @@ pdflatex -interaction=nonstopmode manuscript.tex
 | `/review-julia [file]` | Julia code quality review |
 | `/review-stata [file]` | Stata code quality review |
 | `/review-matlab [file]` | MATLAB code quality review |
-| `/review-tex [file]` | LaTeX hardcoded-number review for manuscripts and slides |
+| `/review-tex [file]` | LaTeX hardcoded-number and updated-result prose review |
 | `/review-makefile [file]` | Makefile conventions review |
 | `/review-comments [path]` | Clean up comments, docstrings, dead code |
 | `/review-domain [file]` | Substantive domain review (identification, citations, code-theory) — opt-in |
@@ -129,18 +133,18 @@ pdflatex -interaction=nonstopmode manuscript.tex
 
 ## Shared Skill Protocols
 
-- Canonical shared skill bodies live in `protocols/skills/`
+- Shared skill bodies live in `protocols/skills/`
 - `.claude/skills/` and `.agents/skills/` are thin wrappers around those files
-- Review-oriented agents in `.claude/agents/` execute the same canonical protocols
+- Review-oriented agents in `.claude/agents/` execute the same shared protocols
 
 ## Claude Loading Model
 
 - Root `CLAUDE.md` sets project-wide workflow rules
 - `code/CLAUDE.md` loads when Claude works in `code/`
 - `latex/CLAUDE.md` loads when Claude works in `latex/`
-- `code/AGENTS.md` routes code work to `code/conventions/shared.md` and only
+- `protocols/conventions/shared.md` holds the shared code conventions; load only
   the applicable language or Makefile convention
-- Shared local conventions live in `AGENTS.md`, `code/conventions/`, and
+- Shared local conventions live in `AGENTS.md`, `protocols/conventions/`, and
   `latex/AGENTS.md`
 - `.claude/agents/` and `.claude/hooks/` remain Claude-only execution surfaces
   and mechanics
