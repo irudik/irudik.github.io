@@ -78,11 +78,16 @@ Media: [The Economic Times](https://t.co/55NzVfuCJl)
 **[The social value of hurricane forecasts](https://www.nber.org/papers/w32548)**  
 Molina, R. and I. Rudik. Forthcoming.  
 Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-forecasts-are-preventing-damage-and-saving-money-study-says/), [Marketplace 2](https://www.marketplace.org/2024/05/27/biden-administrationhurricane-forecasting-investment/), [Planet Money](https://www.npr.org/2024/11/11/1212475049/indicator-what-is-weather-forecasts-worth), [NBER Digest](https://www.nber.org/digest/202409/value-improving-hurricane-forecasts)  
-**American Economic Journal: Economic Policy**  
+**American Economic Journal: Economic Policy.**  
+
+
+**[Building a scalable climate coalition for heavy industry]()**  
+Wolfram, C., J. Aldy, C. Bracher, G. Casey, K. Clausing, V. Chaturvedi, C. Fischer, C. Gollier, A. Hsiao, F. Jotzo, M. Medeiros, K. Meng, A. Muthitacharoen, A. Ockenfels, M. Pangestu, M. Pereboom, A. Rao, I. Rudik, D. Sembene, N. Shimberg, E. Somanathan, D. Tingley, and J. Winter. Forthcoming.  
+**Science.**
 
 **[Climate change and long run factor shares](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20261025)**  
 Liu, T., I. Rudik, Z. Xu. 2026.  
-**AEA Papers and Proceedings**
+**AEA Papers and Proceedings.**
 
 **[Economic geography and air pollution regulation in the United States](https://www.nber.org/papers/w29845)**  
 Hollingsworth, A., T. Jaworski, C. Kitchens, I. Rudik. 2026.  
