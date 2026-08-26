@@ -53,9 +53,6 @@ Tianzi Liu, Ivan Rudik, Zebang Xu
 Derek Lemoine, Antonia Marcheva, Ivan Rudik
 
 
-**Pollution pricing in equilibrium: Production, reallocation, and aggregate impacts**  
-Andrew Butters, Jackson Dorsey, Ivan Rudik
-
 ## Working papers
 
 **[Are carbon tariffs climate policy?](https://www.nber.org/papers/w35307)**  
@@ -70,6 +67,9 @@ Ivan Rudik, Gary Lyn, Weiliang Tan, Ariel Ortiz-Bobea
 Media: [The Economic Times](https://t.co/55NzVfuCJl)  
 <!-- **Revise and resubmit at Journal of Political Economy: Macroeconomics**   -->
 
+**[Pollution pricing in equilibrium: Production, reallocation, and aggregate impacts](https://www2.nber.org/papers/w35682)**  
+Andrew Butters, Jackson Dorsey, Ivan Rudik  
+[[appendix](/assets/pdf/pollution_pricing_equilibrium_appendix.pdf)]
 
 
 ## Published and Forthcoming Papers
