@@ -55,6 +55,7 @@ prose must name an identifier, put the exact name in backticks.
 | refactor (in prose) | reorganize / clean up |
 | deprecated | superseded / retired |
 | wire up / plumbing | connect / underlying setup |
+| maintained (as a qualifier: maintained scenario, solver, algorithm) | the implemented algorithm / the scenario workflow / the default settings, or drop the word |
 
 Acceptable without rewriting (explicitly ruled on): cache, wrapper, stale,
 parse, dry run, upstream/downstream (including the input-output sense),
