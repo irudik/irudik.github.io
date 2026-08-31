@@ -68,8 +68,7 @@ Media: [The Economic Times](https://t.co/55NzVfuCJl)
 <!-- **Revise and resubmit at Journal of Political Economy: Macroeconomics**   -->
 
 **[Pollution pricing in equilibrium: Production, reallocation, and aggregate impacts](https://www.nber.org/papers/w35682)**  
-Andrew Butters, Jackson Dorsey, Ivan Rudik  
-[[appendix](/assets/pdf/pollution_pricing_equilibrium_appendix.pdf)]
+Andrew Butters, Jackson Dorsey, Ivan Rudik
 
 
 ## Published and Forthcoming Papers
