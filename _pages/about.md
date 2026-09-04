@@ -80,9 +80,9 @@ Media: [Marketplace 1](https://www.marketplace.org/2024/06/13/better-hurricane-f
 **American Economic Journal: Economic Policy.**  
 
 
-**[Building a scalable climate coalition for heavy industry]()**  
-Wolfram, C., J. Aldy, C. Bracher, G. Casey, K. Clausing, V. Chaturvedi, C. Fischer, C. Gollier, A. Hsiao, F. Jotzo, M. Medeiros, K. Meng, A. Muthitacharoen, A. Ockenfels, M. Pangestu, M. Pereboom, A. Rao, I. Rudik, D. Sembene, N. Shimberg, E. Somanathan, D. Tingley, and J. Winter. Forthcoming.  
-**Science.**
+**[Building a scalable climate coalition for heavy industry](https://www.science.org/doi/abs/10.1126/science.aef7190)**  
+Wolfram, C., J. Aldy, C. Bracher, G. Casey, V. Chaturvedi, K. Clausing, C. Fischer, C. Gollier, A. Hsiao, F. Jotzo, M. Medeiros, K. Meng, A. Muthitacharoen, A. Ockenfels, M. Pangestu, M. Pereboom, A. Rao, I. Rudik, D. Sembene, N. Shimberg, E. Somanathan, D. Tingley, and J. Winter. 2026.  
+**Science.** 393(6815):984--987.
 
 **[Climate change and long run factor shares](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20261025)**  
 Liu, T., I. Rudik, Z. Xu. 2026.  
