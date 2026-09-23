@@ -42,6 +42,8 @@ White House Office of Science and Technology Policy
 
 ## Work in progress
 
+**Hurricane hunters and the economic value of augmented observations for hurricane forecasts**  
+Renato Molina, Diego S. Cardoso, Ivan Rudik, Brian McNoldy, Mark DeMaria, David Nolan
 
 **Climate change and market power**  
 Jack Ma, Hui Zhou, Wangyang Lai, Ivan Rudik, Shanjun Li
